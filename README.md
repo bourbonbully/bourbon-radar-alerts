@@ -3,7 +3,7 @@
 This repository holds only the public alert data used by the **Bourbon Bully – Bourbon Radar** app.
 It is updated automatically. It contains no app code.
 
-- Last updated: 2026-11-24T18:13:51.297Z
+- Last updated: 2026-11-24T18:15:49.016Z
 - Alerts: 22 (9 verified)
 
 **Verified** = listed on the venue or organizer’s own official calendar with a date and place.
