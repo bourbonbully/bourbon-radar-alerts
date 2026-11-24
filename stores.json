@@ -1,0 +1,607 @@
+{
+  "generatedAt": "2026-11-24T19:57:46.426Z",
+  "count": 57,
+  "places": [
+    {
+      "name": "Alabama ABC annual whiskey release sweepstakes",
+      "category": "authority",
+      "states": [
+        "AL"
+      ],
+      "website": "https://alabcboard.gov/node/18023061",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Alabama ABC quarterly limited-release sweepstakes",
+      "category": "authority",
+      "states": [
+        "AL"
+      ],
+      "website": "https://alabcboard.gov/node/47507891",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Cedar Ridge Distillery (Swisher, IA)",
+      "category": "distillery",
+      "states": [
+        "IA"
+      ],
+      "city": "Swisher",
+      "website": "https://www.crwine.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Iowa ABD special pick lottery",
+      "category": "authority",
+      "states": [
+        "IA"
+      ],
+      "website": "https://shop.iowaabd.com/special-pick-ha-lottery",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Mississippi River Distilling (LeClaire, IA)",
+      "category": "distillery",
+      "states": [
+        "IA"
+      ],
+      "city": "LeClaire",
+      "website": "https://www.mrdistilling.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Templeton Distillery (Templeton, IA)",
+      "category": "distillery",
+      "states": [
+        "IA"
+      ],
+      "city": "Templeton",
+      "website": "https://www.templetondistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Idaho State Liquor rare product lottery",
+      "category": "authority",
+      "states": [
+        "ID"
+      ],
+      "website": "https://idaholiquor.com/special-releases",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Binny's Beverage Depot – Lincoln Park (Chicago)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.binnys.com/",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Blaum Bros. Distilling (Galena, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Galena",
+      "website": "https://www.blaumbros.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "FEW Spirits (Evanston, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Evanston",
+      "website": "https://www.fewspirits.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "KOVAL Distillery (Chicago)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.koval-distillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Randall's Wines & Spirits (Illinois)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "website": "https://shoprandalls.com/",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Whiskey Acres Distilling (DeKalb, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "DeKalb",
+      "website": "https://www.whiskeyacres.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Big Red Liquors bourbon lottery & expo (Indiana)",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "website": "https://www.bigredliquors.com",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Hotel Tango Distillery (Indianapolis)",
+      "category": "distillery",
+      "states": [
+        "IN"
+      ],
+      "city": "Indianapolis",
+      "website": "https://www.hoteltango.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Starlight Distillery (Starlight, IN)",
+      "category": "distillery",
+      "states": [
+        "IN"
+      ],
+      "city": "Starlight",
+      "website": "https://www.starlightdistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Montgomery County MD (ABS) highly allocated bourbon releases",
+      "category": "authority",
+      "states": [
+        "MD"
+      ],
+      "website": "https://www.montgomerycountymd.gov/ABS/HAL/",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Journeyman Distillery (Three Oaks, MI)",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Three Oaks",
+      "website": "https://www.journeymandistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Long Road Distillers (Grand Rapids)",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Grand Rapids",
+      "website": "https://www.longroaddistillers.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Traverse City Whiskey Co.",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Traverse City",
+      "website": "https://www.tcwhiskey.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Two James Spirits (Detroit)",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Detroit",
+      "website": "https://www.twojames.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Valentine Distilling (Ferndale, MI)",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Ferndale",
+      "website": "https://www.valentinedistilling.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Brother Justus Whiskey Co. (Minneapolis)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://brotherjustus.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Copperwing Distillery (St. Louis Park)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "St. Louis Park",
+      "website": "https://www.copperwingdistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Keeper's Heart Distillery (Minneapolis)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://www.keepersheart.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Surdyk's Liquor & Cheese Shop (Minneapolis)",
+      "category": "store",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://www.surdyks.com/",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Tattersall Distilling (Minneapolis)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://www.tattersalldistilling.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Vikre Distillery (Duluth)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "Duluth",
+      "website": "https://www.vikredistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Zipps Liquors (Minneapolis)",
+      "category": "store",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://zippsliquors.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Mecklenburg County ABC (Charlotte) product lottery",
+      "category": "authority",
+      "states": [
+        "NC"
+      ],
+      "website": "https://www.meckabc.com",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Wake County ABC (Raleigh) bourbon lottery",
+      "category": "authority",
+      "states": [
+        "NC"
+      ],
+      "website": "https://www.wakeabc.com",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "New Hampshire Liquor & Wine Outlets whiskey raffles",
+      "category": "store",
+      "states": [
+        "NH"
+      ],
+      "website": "https://rafflecreator.com/pages/11955",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Iron Smoke Distillery (NY)",
+      "category": "distillery",
+      "states": [
+        "NY"
+      ],
+      "city": "Fairport",
+      "website": "https://ironsmokedistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Ohio Liquor (OHLQ) bottle lottery",
+      "category": "authority",
+      "states": [
+        "OH"
+      ],
+      "website": "https://www.ohlq.com",
+      "monitoring": "off",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Oregon OLCC Chance to Purchase",
+      "category": "authority",
+      "states": [
+        "OR"
+      ],
+      "website": "https://www.oregon.gov/olcc/liquorstores/Pages/ChancetoPurchase.aspx",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Pennsylvania PLCB Limited-Release Lottery (press room)",
+      "category": "authority",
+      "states": [
+        "PA"
+      ],
+      "website": "https://www.pa.gov/agencies/lcb/about-us/press-room",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Garrison Brothers Distillery (Hye, TX)",
+      "category": "distillery",
+      "states": [
+        "TX"
+      ],
+      "city": "Hye",
+      "website": "https://www.garrisonbros.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Spec's Wines, Spirits & Finer Foods events (Texas)",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "website": "https://specsonline.com/",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Utah DABS news (special barrel selections)",
+      "category": "authority",
+      "states": [
+        "UT"
+      ],
+      "website": "https://abs.utah.gov/",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Utah DABS rare & high-demand drawing",
+      "category": "authority",
+      "states": [
+        "UT"
+      ],
+      "website": "https://abs.utah.gov/shop-products/allocatedandrare",
+      "monitoring": "active",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "A. Smith Bowman Distillery (VA)",
+      "category": "distillery",
+      "states": [
+        "VA"
+      ],
+      "website": "https://asmithbowman.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Virginia ABC limited-availability lottery",
+      "category": "authority",
+      "states": [
+        "VA"
+      ],
+      "website": "https://www.abc.virginia.gov/products/limited-availability/lottery",
+      "monitoring": "off",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Virginia Distillers Association events (statewide)",
+      "category": "distillery",
+      "states": [
+        "VA"
+      ],
+      "website": "https://virginiaspirits.org/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Vermont 802Spirits Rare Spirits Raffle",
+      "category": "authority",
+      "states": [
+        "VT"
+      ],
+      "website": "https://802spirits.com/raffle",
+      "monitoring": "off",
+      "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "45th Parallel Distillery (New Richmond, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "New Richmond",
+      "website": "https://www.45thparallelspirits.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Central Standard Distillery (Milwaukee)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Milwaukee",
+      "website": "https://www.centralstandarddistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Dancing Goat Distillery (Cambridge, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Cambridge",
+      "website": "https://dancinggoatdistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Discount Liquor (Milwaukee, WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Milwaukee",
+      "website": "https://www.discountliquorinc.com/",
+      "monitoring": "blocked",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Driftless Glen Distillery (Baraboo, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Baraboo",
+      "website": "https://driftlessglen.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Great Lakes Distillery (Milwaukee)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Milwaukee",
+      "website": "https://greatlakesdistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "J. Henry & Sons (Dane, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Dane",
+      "website": "https://jhenryandsons.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "J. Henry & Sons Bourbon (Dane, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Dane",
+      "website": "https://www.jhenryandsons.com/",
+      "monitoring": "blocked",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Ray's Wine & Spirits (Wauwatosa, WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Wauwatosa",
+      "website": "https://www.rayswine.com/",
+      "monitoring": "blocked",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "State Line Distillery (Madison)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Madison",
+      "website": "https://www.statelinedistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Wollersheim Winery & Distillery (Prairie du Sac, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Prairie du Sac",
+      "website": "https://www.wollersheim.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Breckenridge Distillery events (nationwide)",
+      "category": "distillery",
+      "states": [],
+      "website": "https://breckenridgedistillery.com/",
+      "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Total Wine & More events (nationwide stores)",
+      "category": "store",
+      "states": [],
+      "website": "https://www.totalwine.com/",
+      "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    }
+  ]
+}
