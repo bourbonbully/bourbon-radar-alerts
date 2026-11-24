@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-24T20:56:40.718Z",
+  "generatedAt": "2026-11-24T21:38:58.669Z",
   "count": 62,
   "places": [
     {
@@ -19,7 +19,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -138,6 +138,17 @@
       ],
       "website": "https://shoprandalls.com/",
       "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "The Distillery (Momence, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Momence",
+      "website": "https://phillips66.com/",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -279,17 +290,6 @@
       "city": "Minneapolis",
       "website": "https://www.keepersheart.com/",
       "monitoring": "off",
-      "watches": "Releases, tastings and distillery events"
-    },
-    {
-      "name": "O'Shaughnessy Distilling Co. (Minneapolis, MN)",
-      "category": "distillery",
-      "states": [
-        "MN"
-      ],
-      "city": "Minneapolis",
-      "website": "https://osdistilling.com/",
-      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -528,7 +528,7 @@
       ],
       "city": "Cedarburg",
       "website": "https://www.barrelsonbridge.com/",
-      "monitoring": "blocked",
+      "monitoring": "off",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -605,7 +605,7 @@
       ],
       "city": "Fond du Lac",
       "website": "https://www.ledgerockdistillery.com/",
-      "monitoring": "blocked",
+      "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
     },
     {
