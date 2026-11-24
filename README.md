@@ -1,9 +1,10 @@
 # Bourbon Radar – public alerts feed
 
-This repository holds only the public alert data used by the **Bourbon Bully – Bourbon Radar** app.
-It is updated automatically. It contains no app code.
+This repository holds the public alert data used by the **Bourbon Bully – Bourbon Radar** app,
+plus the published web version of the app in `app/` (open it at https://bourbonbully.github.io/bourbon-radar-alerts/app/).
+It is updated automatically. The app's source code is kept private.
 
-- Last updated: 2026-11-24T18:30:54.083Z
+- Last updated: 2026-11-24T19:36:56.714Z
 - Alerts: 22 (9 verified)
 
 **Verified** = listed on the venue or organizer’s own official calendar with a date and place.
