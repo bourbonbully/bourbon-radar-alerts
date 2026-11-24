@@ -1,15 +1,18 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-24T17:46:33.529Z",
-  "alertCount": 17,
-  "verifiedCount": 5,
-  "sourcesChecked": 24,
+  "generatedAt": "2026-11-24T17:58:53.938Z",
+  "alertCount": 23,
+  "verifiedCount": 9,
+  "sourcesChecked": 38,
   "states": [
     "FL",
+    "IA",
     "KY",
     "MA",
-    "MN"
+    "MI",
+    "MN",
+    "WI"
   ],
   "alerts": [
     {
@@ -27,6 +30,53 @@
       "sourceName": "Things to Lou – Bourbon events",
       "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-25/",
       "firstSeenAt": "2026-11-24T17:02:56.305Z"
+    },
+    {
+      "id": "57ef03fdd3b3",
+      "status": "verified",
+      "type": "Distillery Event",
+      "title": "Whiskey Wednesday",
+      "startsAt": "2026-11-25T18:00:00.000Z",
+      "venue": "Mississippi River Distilling",
+      "city": "LeClaire",
+      "state": "IA",
+      "details": "Repeats: 74 upcoming dates. Showing the next one. Join us every Wednesday at both locations for our Whiskey Wednesday ! Specials for Everyone : Save $2 on all whiskey cocktails! Whiskey Club Members : Enjoy Buy One Get One Free whiskey cocktails! If you’re not a Whiskey Club member yet, now’s the time to join! Don’t miss out—grab a friend and let’s make Wednesdays your favorite night of the week!",
+      "sourceName": "Mississippi River Distilling (LeClaire, IA)",
+      "sourceUrl": "https://www.mrdistilling.com/event/whiskey-wednesday/2026-11-25/",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "88fc04002592",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Fireside Whiskey Thursdays",
+      "startsAt": "2026-11-27T00:00:00.000Z",
+      "venue": "Cocktail House & Distillery",
+      "address": "303 North Cody Road",
+      "city": "LeClaire",
+      "state": "IA",
+      "zip": "52753",
+      "details": "Repeats: 50 upcoming dates. Showing the next one. 🔥 Whiskey & Fires on the Patio 🔥 Every Thursday in October | 6–9 PM | Mississippi River Distilling Company – LeClaire Warm up your Thursday nights this fall with whiskey specials and cozy patio fires! ✨ 🍫 Sip on our featured $8 S’mores Old Fashioned 🔥 Roast marshmallows with free Build-Your-Own S’mores by the fire 🍹 Enjoy $7 Tap Cocktails and $2 off all whiskey cocktails Gather your friends, bundle up by the…",
+      "sourceName": "Mississippi River Distilling (LeClaire, IA)",
+      "sourceUrl": "https://www.mrdistilling.com/event/fireside-whiskey-thursdays-2/2026-11-26/",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "b63a0b0ba1e3",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Pour the Punch Cocktail Class at Less Traveled",
+      "startsAt": "2026-12-01T00:00:00.000Z",
+      "venue": "Less Traveled",
+      "address": "959 Cherry Street SE",
+      "city": "Grand Rapids",
+      "state": "MI",
+      "zip": "49504",
+      "priceNote": "$45",
+      "details": "Get ready to impress your guests this season with effortless entertaining! In this hands-on class, you’ll learn the art of batching cocktails and crafting show-stopping punch bowls perfect for any holiday gathering! Guided by our expert bartenders, guests will mix and enjoy two scaled-down versions of large-format cocktails while discovering tips and tricks for serving delicious drinks with ease. It’s the ultimate…",
+      "sourceName": "Long Road Distillers (Grand Rapids)",
+      "sourceUrl": "https://longroaddistillers.com/event/pour-the-punch-cocktail-class-at-less-traveled/",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
     },
     {
       "id": "5fb54710b15b",
@@ -163,6 +213,23 @@
       "firstSeenAt": "2026-11-24T16:19:51.825Z"
     },
     {
+      "id": "3000ba26de61",
+      "status": "verified",
+      "type": "Raffle",
+      "title": "Grand Tasting & Lottery: Whiskey",
+      "startsAt": "2026-12-12T19:00:00.000Z",
+      "venue": "Zipps Liquors",
+      "address": "2618 E Franklin Ave",
+      "city": "Minneapolis",
+      "state": "MN",
+      "zip": "55406",
+      "priceNote": "Free",
+      "details": "Whiskey lovers, this is your chance! 🥃🎟️ During our Grand Whiskey Tasting, we’ll be holding multiple drawings for the opportunity to purchase allocated whiskey bottles! 🎟️ HOW TO GET YOUR DRAWING TICKETS Starting Monday, November 2nd through 2:15 PM on Saturday, December 12th, customers can earn drawing tickets by purchasing: 🥃 Zipp’s Barrel Picks 🏷️ Select Red Tag Liquor Closeout Items There is NO LIMIT on…",
+      "sourceName": "Zipps Liquors (Minneapolis)",
+      "sourceUrl": "https://zippsliquors.com/event/grand-tasting-lottery-whiskey/",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
       "id": "be68c7191533",
       "status": "unconfirmed",
       "type": "Festival",
@@ -224,6 +291,34 @@
       "sourceUrl": "https://thewhiskeywash.com/whiskey-news/hogsworth-launches-the-18-oldest-bourbon-armagnac-blend-at-100/",
       "publishedAt": "2026-11-23T13:12:25.000Z",
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
+    },
+    {
+      "id": "931fa516a624",
+      "status": "unconfirmed",
+      "type": "Tasting",
+      "title": "2027 Caseclub Tastings at the Winery",
+      "venue": "Wollersheim Winery & Distillery",
+      "city": "Prairie du Sac",
+      "state": "WI",
+      "details": "Thursday, Friday, Saturday | November 19, 20 & 21, 2026 Enjoy the unique opportunity to taste our wines side by side including new releases. For Caseclub Members only. The post 2027 Caseclub Tastings at the Winery appeared first on Wollersheim Winery, Distillery & Bistro .",
+      "sourceName": "Wollersheim Winery & Distillery (Prairie du Sac, WI)",
+      "sourceUrl": "https://www.wollersheim.com/caseclub-tastings-2027/",
+      "publishedAt": "2026-11-21T22:05:22.000Z",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "14a9cd322713",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "New Releases 2026",
+      "venue": "Wollersheim Winery & Distillery",
+      "city": "Prairie du Sac",
+      "state": "WI",
+      "details": "It's an exciting time of the year with new releases for the season: Ruby Nouveau 2026, Domaine Reserve 2025 & Crème de Noyaux Liqueur! All were released on November 19th. The Bistro also has a \"new release\" with the French Yule Log Cake becoming available in December. Slices available during the Festive Fridays or whole Yule Logs can be reserved to take home. The post New Releases 2026 appeared first on Wollersheim…",
+      "sourceName": "Wollersheim Winery & Distillery (Prairie du Sac, WI)",
+      "sourceUrl": "https://www.wollersheim.com/new-releases-2026/",
+      "publishedAt": "2026-11-19T19:22:02.000Z",
+      "firstSeenAt": "2026-11-24T17:58:53.938Z"
     },
     {
       "id": "937b53b6c56c",
