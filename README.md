@@ -3,10 +3,12 @@
 This repository holds only the public alert data used by the **Bourbon Bully – Bourbon Radar** app.
 It is updated automatically. It contains no app code.
 
-- Last updated: 2026-11-24T18:03:19.863Z
+- Last updated: 2026-11-24T18:13:51.297Z
 - Alerts: 22 (9 verified)
 
 **Verified** = listed on the venue or organizer’s own official calendar with a date and place.
 **Unconfirmed** = an announcement or third-party listing; always check the original source link.
 
 Each alert links to its original public source. Event details can change; confirm with the venue before you go.
+
+Locations and the `zips/` ZIP-code lookup come from the U.S. Census Bureau Gazetteer Files (public domain).
