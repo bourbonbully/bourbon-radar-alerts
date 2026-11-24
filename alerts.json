@@ -1,13 +1,14 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-24T17:13:45.839Z",
-  "alertCount": 16,
+  "generatedAt": "2026-11-24T17:46:33.529Z",
+  "alertCount": 17,
   "verifiedCount": 5,
   "sourcesChecked": 24,
   "states": [
     "FL",
     "KY",
+    "MA",
     "MN"
   ],
   "alerts": [
@@ -127,6 +128,22 @@
       "sourceName": "Kentucky Bourbon Trail",
       "sourceUrl": "https://kybourbontrail.com/event/8972/",
       "firstSeenAt": "2026-11-24T16:19:51.825Z"
+    },
+    {
+      "id": "b8ad50e759c1",
+      "status": "unconfirmed",
+      "type": "Distillery Event",
+      "title": "Whisk(e)y Wednesday with Irish American Whiskey",
+      "startsAt": "2026-12-10T00:00:00.000Z",
+      "venue": "Julio’s Liquors",
+      "address": "140 Turnpike Road",
+      "city": "Westhampton",
+      "state": "MA",
+      "zip": "01581",
+      "details": "@ Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+      "sourceName": "WhiskyCast Events Calendar",
+      "sourceUrl": "https://whiskycast.com/calendar-of-events/whiskey-wednesday-with-irish-american-whiskey/",
+      "firstSeenAt": "2026-11-24T17:33:41.307Z"
     },
     {
       "id": "0ae76c7744d7",
