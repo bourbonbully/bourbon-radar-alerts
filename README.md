@@ -4,8 +4,8 @@ This repository holds the public alert data used by the **Bourbon Bully – Bour
 plus the published web version of the app in `app/` (open it at https://bourbonbully.github.io/bourbon-radar-alerts/app/).
 It is updated automatically. The app's source code is kept private.
 
-- Last updated: 2026-11-24T19:57:46.426Z
-- Alerts: 22 (9 verified)
+- Last updated: 2026-11-24T20:56:40.718Z
+- Alerts: 33 (18 verified)
 
 **Verified** = listed on the venue or organizer’s own official calendar with a date and place.
 **Unconfirmed** = an announcement or third-party listing; always check the original source link.
@@ -13,3 +13,4 @@ It is updated automatically. The app's source code is kept private.
 Each alert links to its original public source. Event details can change; confirm with the venue before you go.
 
 Locations and the `zips/` ZIP-code lookup come from the U.S. Census Bureau Gazetteer Files (public domain).
+Many store and distillery websites were found using OpenStreetMap data © OpenStreetMap contributors (ODbL, https://www.openstreetmap.org/copyright).

@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-24T19:57:46.426Z",
-  "count": 57,
+  "generatedAt": "2026-11-24T20:56:40.718Z",
+  "count": 62,
   "places": [
     {
       "name": "Alabama ABC annual whiskey release sweepstakes",
@@ -51,6 +51,17 @@
       ],
       "city": "LeClaire",
       "website": "https://www.mrdistilling.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Revelton Distilling Company (Osceola, IA)",
+      "category": "distillery",
+      "states": [
+        "IA"
+      ],
+      "city": "Osceola",
+      "website": "https://reveltondistillery.com/",
       "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
@@ -271,6 +282,27 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "O'Shaughnessy Distilling Co. (Minneapolis, MN)",
+      "category": "distillery",
+      "states": [
+        "MN"
+      ],
+      "city": "Minneapolis",
+      "website": "https://osdistilling.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Seven Sisters Sprits (MN)",
+      "category": "store",
+      "states": [
+        "MN"
+      ],
+      "website": "https://sevensistersspirits.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Surdyk's Liquor & Cheese Shop (Minneapolis)",
       "category": "store",
       "states": [
@@ -302,6 +334,17 @@
       "website": "https://www.vikredistillery.com/",
       "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Westside Liqour (Baxter, MN)",
+      "category": "store",
+      "states": [
+        "MN"
+      ],
+      "city": "Baxter",
+      "website": "https://westsideliquor.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Zipps Liquors (Minneapolis)",
@@ -352,7 +395,7 @@
       ],
       "city": "Fairport",
       "website": "https://ironsmokedistillery.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -478,6 +521,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Barrels on Bridge (Cedarburg, WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Cedarburg",
+      "website": "https://www.barrelsonbridge.com/",
+      "monitoring": "blocked",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Central Standard Distillery (Milwaukee)",
       "category": "distillery",
       "states": [
@@ -507,7 +561,7 @@
       ],
       "city": "Milwaukee",
       "website": "https://www.discountliquorinc.com/",
-      "monitoring": "blocked",
+      "monitoring": "off",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -544,13 +598,13 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
-      "name": "J. Henry & Sons Bourbon (Dane, WI)",
+      "name": "Ledgerock Distillery (Fond du Lac, WI)",
       "category": "distillery",
       "states": [
         "WI"
       ],
-      "city": "Dane",
-      "website": "https://www.jhenryandsons.com/",
+      "city": "Fond du Lac",
+      "website": "https://www.ledgerockdistillery.com/",
       "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
@@ -562,7 +616,7 @@
       ],
       "city": "Wauwatosa",
       "website": "https://www.rayswine.com/",
-      "monitoring": "blocked",
+      "monitoring": "off",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
