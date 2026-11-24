@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-24T17:58:53.938Z",
-  "alertCount": 23,
+  "generatedAt": "2026-11-24T18:01:52.995Z",
+  "alertCount": 22,
   "verifiedCount": 9,
-  "sourcesChecked": 38,
+  "sourcesChecked": 37,
   "states": [
     "FL",
     "IA",
@@ -291,20 +291,6 @@
       "sourceUrl": "https://thewhiskeywash.com/whiskey-news/hogsworth-launches-the-18-oldest-bourbon-armagnac-blend-at-100/",
       "publishedAt": "2026-11-23T13:12:25.000Z",
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
-    },
-    {
-      "id": "931fa516a624",
-      "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "2027 Caseclub Tastings at the Winery",
-      "venue": "Wollersheim Winery & Distillery",
-      "city": "Prairie du Sac",
-      "state": "WI",
-      "details": "Thursday, Friday, Saturday | November 19, 20 & 21, 2026 Enjoy the unique opportunity to taste our wines side by side including new releases. For Caseclub Members only. The post 2027 Caseclub Tastings at the Winery appeared first on Wollersheim Winery, Distillery & Bistro .",
-      "sourceName": "Wollersheim Winery & Distillery (Prairie du Sac, WI)",
-      "sourceUrl": "https://www.wollersheim.com/caseclub-tastings-2027/",
-      "publishedAt": "2026-11-21T22:05:22.000Z",
-      "firstSeenAt": "2026-11-24T17:58:53.938Z"
     },
     {
       "id": "14a9cd322713",
