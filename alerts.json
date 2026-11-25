@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T15:47:07.060Z",
-  "alertCount": 46,
+  "generatedAt": "2026-11-25T15:50:33.409Z",
+  "alertCount": 41,
   "verifiedCount": 21,
-  "sourcesChecked": 82,
+  "sourcesChecked": 81,
   "states": [
     "FL",
     "IA",
@@ -550,19 +550,6 @@
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
     {
-      "id": "5b9781bc465f",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "The Best Sancerre: Our Picks, and How It Compares to New Zealand and Other French Sauvignon Blanc",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "Sancerre is France's most famous Sauvignon Blanc. Here are the Sancerres we pour at every price, how they compare with New Zealand Sauvignon Blanc and Pouilly-Fumé, and the French Sauvignon Blancs that deliver the style for less. More",
-      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
-      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-sancerre",
-      "publishedAt": "2026-11-24T15:59:35.000Z",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
-    },
-    {
       "id": "76a4018f0e08",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -591,7 +578,7 @@
       "title": "Kroger's Pappy Van Winkle bourbon lottery returns Black Friday",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0703114fbb4b39ac8168f15b05775e&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0703e1f21e46d4bb1eed538756b971&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
@@ -610,19 +597,6 @@
       "sourceUrl": "https://www.wollersheim.com/new-releases-2026/",
       "publishedAt": "2026-11-19T19:22:02.000Z",
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
-    },
-    {
-      "id": "511d981538fe",
-      "status": "unconfirmed",
-      "type": "Allocated Drop",
-      "title": "The Best Allocated Bourbon: The Bottles Worth Buying When You See Them",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "What allocated bourbon actually means, how bottles get from the distillery to our shelves, and the allocated and hard-to-find bourbons worth buying when we have them. More",
-      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
-      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-allocated-bourbon",
-      "publishedAt": "2026-11-17T14:00:04.000Z",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "937b53b6c56c",
@@ -669,32 +643,6 @@
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
     },
     {
-      "id": "ae5b3c18cc2a",
-      "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "What to Pour With Thanksgiving Dinner: Wine, Bourbon and One Big-Batch Cocktail",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "The Thanksgiving pairing plan we give at the counter: a sparkler for appetizers, a Riesling and a Beaujolais for the turkey, a make-ahead bourbon cider punch, and a bourbon or tawny Port with pie. More",
-      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
-      "sourceUrl": "https://theliquorbarn.com/blogs/articles/what-to-drink-with-thanksgiving-dinner",
-      "publishedAt": "2026-11-06T14:00:02.000Z",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
-    },
-    {
-      "id": "f109eecd300f",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "The Best Luxury Bottles to Gift (2026): Cognac, Scotch, Bourbon and Tequila Worth the Splurge",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "Luxury bottles that earn their price: XO cognac, aged Scotch, limited bourbon and top-shelf tequila, sorted by what the recipient already drinks. More",
-      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
-      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-luxury-liquor-gifts",
-      "publishedAt": "2026-11-03T14:00:02.000Z",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
-    },
-    {
       "id": "00acee05825b",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -722,19 +670,6 @@
       "sourceUrl": "https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-heaven-hill-phoenix-a-limited-edition-bourbon-commemorating-three-decades-of-resilience/",
       "publishedAt": "2026-10-28T19:42:44.000Z",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
-    },
-    {
-      "id": "3d37ff8436b7",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "The Best Champagne for New Year's Eve (2026): Prestige Cuvees, Grower Bottles and Party-Size Picks",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "The best Champagne for New Year's Eve, from the midnight-toast splurge to crowd-pleasing bruts, rosé, grower Champagne, magnums and value sparklers under $30. More",
-      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
-      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-champagne-new-years-eve",
-      "publishedAt": "2026-10-27T13:00:04.000Z",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "5ecb6c77badc",
