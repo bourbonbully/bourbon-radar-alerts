@@ -1,13 +1,14 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T14:00:08.227Z",
-  "alertCount": 38,
-  "verifiedCount": 18,
-  "sourcesChecked": 69,
+  "generatedAt": "2026-11-25T15:36:35.561Z",
+  "alertCount": 46,
+  "verifiedCount": 21,
+  "sourcesChecked": 81,
   "states": [
     "FL",
     "IA",
+    "IL",
     "KY",
     "MA",
     "MI",
@@ -29,7 +30,7 @@
       "zip": "40206",
       "lat": 38.2567,
       "lng": -85.7023,
-      "details": "Repeats: 12 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
+      "details": "Repeats: 11 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
       "sourceName": "Things to Lou – Bourbon events",
       "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-25/",
       "firstSeenAt": "2026-11-24T17:02:56.305Z"
@@ -49,6 +50,24 @@
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
     },
     {
+      "id": "808a2153a0d3",
+      "status": "verified",
+      "type": "Barrel Pick",
+      "title": "Exclusive Cask Preview: Le Mercredi Noir Grayslake",
+      "startsAt": "2026-11-25T23:00:00.000Z",
+      "venue": "The Beer Bazaar",
+      "address": "107 Center Street",
+      "city": "Grayslake",
+      "state": "IL",
+      "zip": "60030",
+      "lat": 42.3351,
+      "lng": -88.0451,
+      "details": "Kick off the holiday weekend in the dark at Le Mercredi Noir Grayslake , an exclusive, one-night-only barrel pick preview hosted at Beer Bazaar on Wednesday, November 25, from 5: 00 PM to 10: 00 PM! Skip the usual pre-Thanksgiving chaos and step inside for the very first pour of our newest Thornton Distilling Barrel Pick , showcased in two bespoke cocktails available for one night only while bottle preorders remain…",
+      "sourceName": "Beer Bazaar (Grayslake, IL)",
+      "sourceUrl": "https://thebeerbazaar.com/event/le-mercredi-noir-grayslake/",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
+    },
+    {
       "id": "88fc04002592",
       "status": "verified",
       "type": "Tasting",
@@ -65,6 +84,24 @@
       "sourceName": "Mississippi River Distilling (LeClaire, IA)",
       "sourceUrl": "https://www.mrdistilling.com/event/fireside-whiskey-thursdays-2/2026-11-26/",
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "fd0c9b096092",
+      "status": "verified",
+      "type": "Barrel Pick",
+      "title": "2026 Goose Island Bourbon County & Thornton Barrel Pick Release Party!",
+      "startsAt": "2026-11-27T17:00:00.000Z",
+      "venue": "The Beer Bazaar",
+      "address": "107 Center Street",
+      "city": "Grayslake",
+      "state": "IL",
+      "zip": "60030",
+      "lat": 42.3351,
+      "lng": -88.0451,
+      "details": "The Biggest Barrel-Aged Beer Event of the Year For craft beer enthusiasts, Black Friday isn’t just about shopping. It’s Bourbon County Day. Join us at The Beer Bazaar for the 2026 Goose Island Bourbon County Release Party and celebrate one of the most anticipated annual releases in the craft beer world. As Grayslake comes alive with the Festival of Lights & Holiday Market, we’ll be pouring some of Goose Island’s…",
+      "sourceName": "Beer Bazaar (Grayslake, IL)",
+      "sourceUrl": "https://thebeerbazaar.com/event/2026-bourbon-county-release-party-grayslake/",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "38b52e1bf43b",
@@ -111,6 +148,23 @@
       "sourceName": "Northern Waters Distillery (Minocqua, WI)",
       "sourceUrl": "https://northernwatersdistillery.com/event/shop-small-samples-specials/",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
+      "id": "78bdb283bf5c",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "5 Acre Flight",
+      "startsAt": "2026-11-29T02:00:00.000Z",
+      "venue": "Copper Fiddle Distillery",
+      "address": "532 W IL Rte 22 Suite 110",
+      "city": "Lake Zurich",
+      "state": "IL",
+      "zip": "60047",
+      "lat": 42.2016,
+      "lng": -88.0463,
+      "sourceName": "Copper Fiddle Distillery (Lake Zurich, IL)",
+      "sourceUrl": "https://copperfiddledistillery.com/event/5-acre-flight-2/",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "b63a0b0ba1e3",
@@ -496,6 +550,19 @@
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
     {
+      "id": "5b9781bc465f",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "The Best Sancerre: Our Picks, and How It Compares to New Zealand and Other French Sauvignon Blanc",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "Sancerre is France's most famous Sauvignon Blanc. Here are the Sancerres we pour at every price, how they compare with New Zealand Sauvignon Blanc and Pouilly-Fumé, and the French Sauvignon Blancs that deliver the style for less. More",
+      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
+      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-sancerre",
+      "publishedAt": "2026-11-24T15:59:35.000Z",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
+    },
+    {
       "id": "76a4018f0e08",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -524,7 +591,7 @@
       "title": "Kroger's Pappy Van Winkle bourbon lottery returns Black Friday",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d0ed9a754523b41fae7d0d45c1b4&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07009e7eba450a89d92fbb982e174b&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
@@ -543,6 +610,19 @@
       "sourceUrl": "https://www.wollersheim.com/new-releases-2026/",
       "publishedAt": "2026-11-19T19:22:02.000Z",
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "511d981538fe",
+      "status": "unconfirmed",
+      "type": "Allocated Drop",
+      "title": "The Best Allocated Bourbon: The Bottles Worth Buying When You See Them",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "What allocated bourbon actually means, how bottles get from the distillery to our shelves, and the allocated and hard-to-find bourbons worth buying when we have them. More",
+      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
+      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-allocated-bourbon",
+      "publishedAt": "2026-11-17T14:00:04.000Z",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "937b53b6c56c",
@@ -589,6 +669,32 @@
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
     },
     {
+      "id": "ae5b3c18cc2a",
+      "status": "unconfirmed",
+      "type": "Tasting",
+      "title": "What to Pour With Thanksgiving Dinner: Wine, Bourbon and One Big-Batch Cocktail",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "The Thanksgiving pairing plan we give at the counter: a sparkler for appetizers, a Riesling and a Beaujolais for the turkey, a make-ahead bourbon cider punch, and a bourbon or tawny Port with pie. More",
+      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
+      "sourceUrl": "https://theliquorbarn.com/blogs/articles/what-to-drink-with-thanksgiving-dinner",
+      "publishedAt": "2026-11-06T14:00:02.000Z",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
+    },
+    {
+      "id": "f109eecd300f",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "The Best Luxury Bottles to Gift (2026): Cognac, Scotch, Bourbon and Tequila Worth the Splurge",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "Luxury bottles that earn their price: XO cognac, aged Scotch, limited bourbon and top-shelf tequila, sorted by what the recipient already drinks. More",
+      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
+      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-luxury-liquor-gifts",
+      "publishedAt": "2026-11-03T14:00:02.000Z",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
+    },
+    {
       "id": "00acee05825b",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -616,6 +722,19 @@
       "sourceUrl": "https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-heaven-hill-phoenix-a-limited-edition-bourbon-commemorating-three-decades-of-resilience/",
       "publishedAt": "2026-10-28T19:42:44.000Z",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
+      "id": "3d37ff8436b7",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "The Best Champagne for New Year's Eve (2026): Prestige Cuvees, Grower Bottles and Party-Size Picks",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "The best Champagne for New Year's Eve, from the midnight-toast splurge to crowd-pleasing bruts, rosé, grower Champagne, magnums and value sparklers under $30. More",
+      "sourceName": "Liquor Barn (Chicago suburbs, IL)",
+      "sourceUrl": "https://theliquorbarn.com/blogs/articles/best-champagne-new-years-eve",
+      "publishedAt": "2026-10-27T13:00:04.000Z",
+      "firstSeenAt": "2026-11-25T15:36:35.561Z"
     },
     {
       "id": "5ecb6c77badc",

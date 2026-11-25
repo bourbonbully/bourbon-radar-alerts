@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T14:00:08.227Z",
-  "count": 84,
+  "generatedAt": "2026-11-25T15:36:35.561Z",
+  "count": 93,
   "places": [
     {
       "name": "Alabama ABC annual whiskey release sweepstakes",
@@ -9,7 +9,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/18023061",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -19,7 +19,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -30,7 +30,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "city": "Osceola",
       "website": "https://reveltondistillery.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "city": "Grayslake",
       "website": "https://thebeerbazaar.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -109,6 +109,17 @@
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
+      "name": "Black Band Distillery (Peoria, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Peoria",
+      "website": "https://www.blackbanddistillery.com/",
+      "monitoring": "blocked",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
       "name": "Blaum Bros. Distilling (Galena, IL)",
       "category": "distillery",
       "states": [
@@ -117,6 +128,39 @@
       "city": "Galena",
       "website": "https://www.blaumbros.com/",
       "monitoring": "off",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "CH Distillery (Chicago)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.chdistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Chicago Distilling Company (Chicago)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.chicagodistilling.com/",
+      "monitoring": "blocked",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Copper Fiddle Distillery (Lake Zurich, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Lake Zurich",
+      "website": "https://www.copperfiddledistillery.com/",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -138,6 +182,17 @@
       ],
       "city": "Evanston",
       "website": "https://www.fewspirits.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Judson & Moore Distillery (Chicago)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.judsonandmoore.com/",
       "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
@@ -175,14 +230,47 @@
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
-      "name": "Randall's Wines & Spirits (Illinois)",
+      "name": "Liquor Barn (Chicago suburbs, IL)",
       "category": "store",
       "states": [
         "IL"
       ],
-      "website": "https://shoprandalls.com/",
-      "monitoring": "off",
+      "website": "https://theliquorbarn.com/",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Quincy Street Distillery (Riverside, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Riverside",
+      "website": "https://www.quincystreetdistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Randall's Wines & Spirits allocated whiskey raffles (Fairview Heights, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Fairview Heights",
+      "website": "https://shoprandalls.com/blog",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Rhine Hall Distillery (Chicago)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://www.rhinehall.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
     },
     {
       "name": "The Distillery (Momence, IL)",
@@ -194,6 +282,17 @@
       "website": "https://phillips66.com/",
       "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Thornton Distilling Co. (Thornton, IL)",
+      "category": "distillery",
+      "states": [
+        "IL"
+      ],
+      "city": "Thornton",
+      "website": "https://www.thorntondistilling.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
     },
     {
       "name": "Whiskey Acres Distilling (DeKalb, IL)",
@@ -495,7 +594,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
