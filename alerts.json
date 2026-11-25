@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T17:52:17.307Z",
+  "generatedAt": "2026-11-25T17:53:41.512Z",
   "alertCount": 65,
   "verifiedCount": 44,
-  "sourcesChecked": 104,
+  "sourcesChecked": 103,
   "states": [
     "AL",
     "FL",
@@ -1014,7 +1014,7 @@
       "title": "Kroger's Pappy Van Winkle bourbon lottery returns Black Friday",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07206b0485404f8541951bdaf668c6&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0720be558347458795dd7b324e7b33&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
