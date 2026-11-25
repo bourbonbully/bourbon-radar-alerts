@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T17:30:28.161Z",
-  "alertCount": 62,
-  "verifiedCount": 41,
-  "sourcesChecked": 105,
+  "generatedAt": "2026-11-25T17:52:17.307Z",
+  "alertCount": 65,
+  "verifiedCount": 44,
+  "sourcesChecked": 104,
   "states": [
     "AL",
     "FL",
@@ -15,6 +15,7 @@
     "MI",
     "MN",
     "NJ",
+    "TN",
     "TX",
     "WI"
   ],
@@ -32,6 +33,22 @@
       "sourceName": "Mississippi River Distilling (LeClaire, IA)",
       "sourceUrl": "https://www.mrdistilling.com/event/whiskey-wednesday/2026-11-25/",
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "9f135ab76786",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Tasting Event – St. Petersburg",
+      "startsAt": "2026-11-25T18:00:00.000Z",
+      "venue": "Company Distilling",
+      "city": "Townsend",
+      "state": "TN",
+      "lat": 35.6763,
+      "lng": -83.753,
+      "details": "Join us in St. Petersburg, FL at ABC Fine Wine & Spirits for a free tasting of Company Distilling’s flagship spirits. ABC Fine Wine & Spirits Store 36 3535 4th Street North St. Petersburg, FL",
+      "sourceName": "Company Distilling (Townsend, TN)",
+      "sourceUrl": "https://companydistilling.com/events/tasting-event-47/",
+      "firstSeenAt": "2026-11-25T17:52:17.307Z"
     },
     {
       "id": "808a2153a0d3",
@@ -86,6 +103,22 @@
       "sourceName": "Mississippi River Distilling (LeClaire, IA)",
       "sourceUrl": "https://www.mrdistilling.com/event/fireside-whiskey-thursdays-2/2026-11-26/",
       "firstSeenAt": "2026-11-24T17:58:53.938Z"
+    },
+    {
+      "id": "82d858f13091",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Tasting Event",
+      "startsAt": "2026-11-27T16:00:00.000Z",
+      "venue": "Company Distilling",
+      "city": "Townsend",
+      "state": "TN",
+      "lat": 35.6763,
+      "lng": -83.753,
+      "details": "Repeats: 3 upcoming dates. Showing the next one. Joins us in Alpharetta, GA at McFarland Fine Wine & Spirits for a free sample of the award-winning whiskey lineup from Company Distilling. McFarland Fine Wine & Spirits 899 McFarland Pkwy Alpharetta, GA",
+      "sourceName": "Company Distilling (Townsend, TN)",
+      "sourceUrl": "https://companydistilling.com/events/tasting-event-8/",
+      "firstSeenAt": "2026-11-25T17:52:17.307Z"
     },
     {
       "id": "fd0c9b096092",
@@ -150,6 +183,22 @@
       "sourceName": "Northern Waters Distillery (Minocqua, WI)",
       "sourceUrl": "https://northernwatersdistillery.com/event/shop-small-samples-specials/",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
+      "id": "411b70911788",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Tasting Event – Tampa",
+      "startsAt": "2026-11-28T23:00:00.000Z",
+      "venue": "Company Distilling",
+      "city": "Townsend",
+      "state": "TN",
+      "lat": 35.6763,
+      "lng": -83.753,
+      "details": "Join us at ABC Fine Wine & Spirits in Tampa, FL for a free tasting of our award-winning whiskey. ABC Fine Wine & Spirits 14729 North Dale Mabry Hwy Tampa, FL 33618",
+      "sourceName": "Company Distilling (Townsend, TN)",
+      "sourceUrl": "https://companydistilling.com/events/tasting-event-86/",
+      "firstSeenAt": "2026-11-25T17:52:17.307Z"
     },
     {
       "id": "78bdb283bf5c",
@@ -904,6 +953,17 @@
       "firstSeenAt": "2026-11-25T16:44:08.196Z"
     },
     {
+      "id": "627546405c65",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Benromach Unveils 23 Year Old Single Malt for Lunar New Year",
+      "details": "What does 23 years in first-fill Bourbon and Sherry casks bring to a Speyside single malt? Benromach's Year of the Fire Goat release offers tangerine, raisin and spice. Read the full article at Benromach Unveils 23 Year Old Single Malt for Lunar New Year",
+      "sourceName": "The Whiskey Wash",
+      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/benromach-unveils-23-year-old-single-malt-for-lunar-new-year/",
+      "publishedAt": "2026-11-25T14:49:36.000Z",
+      "firstSeenAt": "2026-11-25T17:52:17.307Z"
+    },
+    {
       "id": "e5d4cfbf69cc",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -954,7 +1014,7 @@
       "title": "Kroger's Pappy Van Winkle bourbon lottery returns Black Friday",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0715d79f3047be9f2a99b72bda640b&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b07206b0485404f8541951bdaf668c6&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
@@ -1046,22 +1106,6 @@
       "sourceUrl": "https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-heaven-hill-phoenix-a-limited-edition-bourbon-commemorating-three-decades-of-resilience/",
       "publishedAt": "2026-10-28T19:42:44.000Z",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
-    },
-    {
-      "id": "5ecb6c77badc",
-      "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "Small Business Saturday: A Taste of Brother Justus Whiskey",
-      "venue": "Brother Justus Whiskey Co.",
-      "city": "Minneapolis",
-      "state": "MN",
-      "lat": 44.9633,
-      "lng": -93.2683,
-      "details": "Celebrate Small Business Saturday with a 30-minute distillery tour, an Old Fashioned, a whiskey tasting, and 20% off bottles. Step inside the Brother Justus Whiskey Co. distillery for a special Small Business Saturday experience. In just 30 minutes, get a taste of what makes our Minnesota-made whiskey unique, from the craft behind the bottle to the flavors in your glass. Led by an expert member of our team, this…",
-      "sourceName": "Brother Justus Whiskey Co. (Minneapolis)",
-      "sourceUrl": "https://brotherjustus.com/events/small-business-saturday-2026",
-      "publishedAt": "2026-10-26T17:12:45.000Z",
-      "firstSeenAt": "2026-11-24T17:06:16.779Z"
     }
   ]
 }

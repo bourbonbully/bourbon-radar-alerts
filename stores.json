@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:30:28.161Z",
+  "generatedAt": "2026-11-25T17:52:17.307Z",
   "count": 112,
   "places": [
     {
@@ -73,7 +73,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
