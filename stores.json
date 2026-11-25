@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T15:41:58.264Z",
-  "count": 93,
+  "generatedAt": "2026-11-25T15:47:07.060Z",
+  "count": 92,
   "places": [
     {
       "name": "Alabama ABC annual whiskey release sweepstakes",
@@ -149,7 +149,7 @@
       ],
       "city": "Chicago",
       "website": "https://www.chicagodistilling.com/",
-      "monitoring": "blocked",
+      "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -271,17 +271,6 @@
       "website": "https://www.rhinehall.com/",
       "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
-    },
-    {
-      "name": "The Distillery (Momence, IL)",
-      "category": "store",
-      "states": [
-        "IL"
-      ],
-      "city": "Momence",
-      "website": "https://phillips66.com/",
-      "monitoring": "active",
-      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Thornton Distilling Co. (Thornton, IL)",
