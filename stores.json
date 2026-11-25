@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T18:43:55.670Z",
-  "count": 353,
+  "generatedAt": "2026-11-25T19:27:55.411Z",
+  "count": 389,
   "places": [
     {
       "name": "Amalga Distillery (Juneau, AK)",
@@ -11,7 +11,8 @@
       "city": "Juneau",
       "website": "https://amalgadistillery.com/",
       "monitoring": "active",
-      "watches": "Releases, tastings and distillery events"
+      "watches": "Releases, tastings and distillery events",
+      "instagram": "https://www.instagram.com/amalgadistillery/"
     },
     {
       "name": "Wine House (Anchorage, AK)",
@@ -920,8 +921,8 @@
       "website": "https://tennesseehills.com/",
       "monitoring": "active",
       "watches": "Releases, tastings and distillery events",
-      "facebook": "https://www.facebook.com/tnhillsdistillery",
-      "instagram": "https://www.instagram.com/tnhillsdistillery/"
+      "facebook": "https://www.facebook.com/tnhillssalthouse",
+      "instagram": "https://www.instagram.com/tnhillssalthouse/"
     },
     {
       "name": "1844 Liquor Market online shop (Brenham, TX)",
@@ -994,7 +995,9 @@
       ],
       "website": "https://specsonline.com/",
       "monitoring": "off",
-      "watches": "Events, tastings, barrel picks and raffles"
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/specs1962",
+      "instagram": "https://www.instagram.com/specs1962/"
     },
     {
       "name": "Wilson Valley Mercantile (Little River, TX)",
@@ -1302,7 +1305,8 @@
       "website": "https://www.totalwine.com/",
       "monitoring": "off",
       "watches": "Events, tastings, barrel picks and raffles",
-      "facebook": "https://www.facebook.com/totalwinebayshore"
+      "facebook": "https://www.facebook.com/totalwinesterlingheights",
+      "instagram": "https://www.instagram.com/totalwinemetrodetroit/"
     },
     {
       "name": "Tosa Liquor",
@@ -2708,7 +2712,7 @@
       "website": "https://rosevalleywinery.net/",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "facebook": "https://www.facebook.com/rosevalleywinery",
+      "facebook": "https://www.facebook.com/mifinewine",
       "instagram": "https://www.instagram.com/rosevalleywinery/"
     },
     {
@@ -3945,7 +3949,8 @@
       "website": "https://stoneyswinelounge.com/",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "facebook": "https://www.facebook.com/stoneyswine"
+      "facebook": "https://www.facebook.com/stoneyswine",
+      "instagram": "https://www.instagram.com/stoneyswinelounge/"
     },
     {
       "name": "Longhorn Liquor",
@@ -4255,6 +4260,7 @@
       "website": "https://turkishdelightalaska.com/",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/turkishdelightalaska",
       "instagram": "https://www.instagram.com/sofra.alaska/"
     },
     {
@@ -4269,6 +4275,434 @@
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
       "facebook": "https://www.facebook.com/450936008274382",
       "instagram": "https://www.instagram.com/portchilkootdistillery/"
+    },
+    {
+      "name": "Haywards Liquor Store",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Belleville",
+      "website": "https://www.facebook.com/haywards-liquor-coin-marina-on-the-lake-203674283011285",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/haywards-liquor-coin-marina-on-the-lake-203674283011285"
+    },
+    {
+      "name": "Super Liquor II",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Coldwater",
+      "website": "https://www.superliquor2.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/superliquor2"
+    },
+    {
+      "name": "House of Liquor",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Ann Arbor",
+      "website": "https://www.facebook.com/houseofliquorannarbor",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/houseofliquorannarbor"
+    },
+    {
+      "name": "Ez Stop North",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Marquette",
+      "website": "https://www.facebook.com/keep.it.ez",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/keep.it.ez"
+    },
+    {
+      "name": "Buscemi's",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Sterling Heights",
+      "website": "https://originalbuscemis.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/buscemis14schoenherr"
+    },
+    {
+      "name": "Sterling Woods Party Shoppe",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Sterling Heights",
+      "website": "https://www.facebook.com/sterlingwoodspartyshoppe",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/sterlingwoodspartyshoppe"
+    },
+    {
+      "name": "River Raisin Distillery",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "website": "https://www.riverraisindistillery.com",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/riverraisindistillery"
+    },
+    {
+      "name": "Port of Call Party Store",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Rogers City",
+      "website": "https://www.facebook.com/128061393907504",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/128061393907504"
+    },
+    {
+      "name": "Towne Club Party Store & Deli",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "West Branch",
+      "website": "https://www.facebook.com/towneclubofwestbranch",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/towneclubofwestbranch"
+    },
+    {
+      "name": "Sal's Liquor",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Fraser",
+      "website": "https://salsliquorfraser.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/sammyts.hannosh"
+    },
+    {
+      "name": "The Liquor Book",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Sterling Heights",
+      "website": "https://theliquorbook.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/theliquorbook"
+    },
+    {
+      "name": "Napa Valley Beverage Company",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Sterling Heights",
+      "website": "https://www.facebook.com/napavalleybeverage",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/napavalleybeverage"
+    },
+    {
+      "name": "Sterling Square Liquor",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Sterling Heights",
+      "website": "https://www.facebook.com/100068009682768",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/100068009682768"
+    },
+    {
+      "name": "Good Time Party Store",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Northville",
+      "website": "https://www.facebook.com/goodtimepartystore",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/goodtimepartystore"
+    },
+    {
+      "name": "One Stop Liquor of Losantville",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "website": "https://www.facebook.com/onestopliquorlosantville",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/onestopliquorlosantville"
+    },
+    {
+      "name": "Economy Discount Liquors #2",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "website": "https://www.facebook.com/economyliquor2",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/economyliquor2"
+    },
+    {
+      "name": "H&S Liquor",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "website": "https://www.facebook.com/profile.php",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/profile.php"
+    },
+    {
+      "name": "Royal Liquors",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "city": "Gary",
+      "website": "https://www.facebook.com/137711776271328",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/137711776271328"
+    },
+    {
+      "name": "Hoosier Fine Wine & Spirits",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "city": "Zionsville",
+      "website": "https://hoosierfinewine.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/hoosierfinewinespirits/"
+    },
+    {
+      "name": "Bluegrass Liquor Box-Cherry Blossom",
+      "category": "store",
+      "states": [
+        "KY"
+      ],
+      "city": "Georgetown",
+      "website": "https://bluegrassliquorboxcherryblossom.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/bluegrass.liquorbox"
+    },
+    {
+      "name": "Alpine Liquor",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Johnson City",
+      "website": "https://www.facebook.com/alpinepackagestore",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/alpinepackagestore"
+    },
+    {
+      "name": "East Side Liquor and Wines",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Elizabethton",
+      "website": "https://www.instagram.com/eastsideliquorandwines/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/eastsideliquorandwines/"
+    },
+    {
+      "name": "Lange's Liquor Store",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Knoxville",
+      "website": "https://www.langesliquor.com",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/langesliquor/"
+    },
+    {
+      "name": "Jan's Wine & Liquor",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "website": "https://www.facebook.com/janswineliquor",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/janswineliquor"
+    },
+    {
+      "name": "Boones Creek Liquor & Wine",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "website": "https://www.facebook.com/boonescreekliquorwine",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/boonescreekliquorwine",
+      "instagram": "https://www.instagram.com/boonescreekliquorwine/"
+    },
+    {
+      "name": "Plaza Package",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Johnson City",
+      "website": "https://libationplaza.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/100057216709403"
+    },
+    {
+      "name": "Wine'tastic!",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Dallas",
+      "website": "https://www.facebook.com/winetasticwinebar",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/winetasticwinebar"
+    },
+    {
+      "name": "Liquor Depot",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Del Valle",
+      "website": "https://www.facebook.com/liquordepotdelvalle",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/liquordepotdelvalle"
+    },
+    {
+      "name": "Twisted Snifter",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Weatherford",
+      "website": "https://www.facebook.com/tsnifter",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/tsnifter"
+    },
+    {
+      "name": "Rye Liquor",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Cleveland",
+      "website": "https://www.facebook.com/ryeliquorstore",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/ryeliquorstore"
+    },
+    {
+      "name": "PopStop!",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Carrollton",
+      "website": "https://popstopshops.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/773013785900963"
+    },
+    {
+      "name": "Fossil Creek Liquor",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "McKinney",
+      "website": "https://fossilcreekliquor.com",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/eldorado_fossilcreek/"
+    },
+    {
+      "name": "FM 66 Liquor",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Maypearl",
+      "website": "https://www.facebook.com/fm66liquor",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/fm66liquor"
+    },
+    {
+      "name": "Johnson County Distillery",
+      "category": "distillery",
+      "states": [
+        "TX"
+      ],
+      "city": "Cleburne",
+      "website": "https://www.facebook.com/johnsoncountydistillery",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/johnsoncountydistillery"
+    },
+    {
+      "name": "CC Wine & Co.",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Bastrop",
+      "website": "https://www.facebook.com/cctxwine",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/cctxwine",
+      "instagram": "https://www.instagram.com/cctxwine/"
+    },
+    {
+      "name": "Captains Liquor",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Coleman",
+      "website": "https://www.facebook.com/captainsliquorcolemantexas",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/captainsliquorcolemantexas"
     }
   ]
 }

@@ -1,8 +1,8 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T18:43:55.670Z",
-  "alertCount": 68,
+  "generatedAt": "2026-11-25T19:27:55.411Z",
+  "alertCount": 67,
   "verifiedCount": 40,
   "sourcesChecked": 156,
   "states": [
@@ -21,7 +21,6 @@
     "OH",
     "TN",
     "TX",
-    "VT",
     "WI",
     "WY"
   ],
@@ -946,18 +945,6 @@
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
     },
     {
-      "id": "33d619fe97fe",
-      "status": "unconfirmed",
-      "type": "Allocated Drop",
-      "title": "Kentucky bourbon production drops by nearly 1 million barrels, down 30%",
-      "state": "KY",
-      "details": "New Kentucky tax data shows that in 2025, distillers cut production by nearly 1 million barrels. The Kentucky Distillers' Association released the figures, which show production down 30%, from just ...",
-      "sourceName": "Bing News search: Kentucky bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c89761d42d1b558110b220b36e4&url=https%3a%2f%2ffinance.yahoo.com%2feconomy%2farticles%2fkentucky-bourbon-production-drops-nearly-203157044.html&c=2848325561730156861&mkt=en-us",
-      "publishedAt": "2026-11-23T12:32:00.000Z",
-      "firstSeenAt": "2026-11-25T18:43:55.670Z"
-    },
-    {
       "id": "daa2f9d3c5e1",
       "status": "unconfirmed",
       "type": "Raffle",
@@ -965,7 +952,7 @@
       "state": "CO",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c835e2548e7b750b6e3f1656649&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736d4d3f345fd8739896da416ecb9&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
@@ -977,7 +964,7 @@
       "state": "TX",
       "details": "They say the “stars at night are big and bright” deep in the heart of Texas. Whether you’re sitting somewhere now where you can see those stars or not, as long as you have love for the Lone Star State ...",
       "sourceName": "Bing News search: Texas bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c8ea5fb44ff904209e0a146409b&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fblue-run-spirits-launching-limited-220000536.html&c=10807779769355632072&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736dd0ebb43c086d39b58a7b23c91&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fblue-run-spirits-launching-limited-220000536.html&c=10807779769355632072&mkt=en-us",
       "publishedAt": "2026-11-20T14:01:00.000Z",
       "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
@@ -1005,7 +992,7 @@
       "state": "MS",
       "details": "Cathead Distillery isn’t in Kentucky. It isn’t in Indiana, Tennessee, or even California. It’s actually Mississippi’s first and oldest legal distillery. Founded in 2010 by friends Austin Evans and ...",
       "sourceName": "Bing News search: Mississippi bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c8b51ec447994e60d28106643a5&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fcathead-distillery-releasing-whiskey-collection-200000164.html&c=4438161405652876576&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736da071743be8ea4edab52d1f755&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fcathead-distillery-releasing-whiskey-collection-200000164.html&c=4438161405652876576&mkt=en-us",
       "publishedAt": "2026-11-19T12:01:00.000Z",
       "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
@@ -1017,21 +1004,21 @@
       "state": "WY",
       "details": "Wyoming Whiskey announced the release of Saddle Up Santa, the first in an annual series of holiday releases from the Kirby, Wyoming distillery.",
       "sourceName": "Bing News search: Wyoming bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c8facdf448fb8a2fdddcfac60b2&url=https%3a%2f%2fwww.fredminnick.com%2f2026%2f11%2f19%2fwyoming-whiskey-launches-new-holiday-series-with-saddle-up-santa%2f&c=14291405714682388002&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736df635b4cb79832ec2aebc4f19f&url=https%3a%2f%2fwww.fredminnick.com%2f2026%2f11%2f19%2fwyoming-whiskey-launches-new-holiday-series-with-saddle-up-santa%2f&c=14291405714682388002&mkt=en-us",
       "publishedAt": "2026-11-19T10:59:00.000Z",
       "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
     {
-      "id": "bf30f2a55941",
+      "id": "5cf1918afc0b",
       "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "Whiskey educator hosts exclusive bourbon tasting event in Avon Nov. 24",
-      "state": "OH",
-      "details": "AVON, Ohio — Samantha Mercado, founder of Wine & Whiskey CLE in Avon, will guide a bourbon pairing at 6 p.m. Tuesday, Nov. 24, at Veranda Bistro & Bar in Avon. Tickets are $200.",
-      "sourceName": "Bing News search: Ohio bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c8c34c746e5b2d6d4f86f01c7ba&url=https%3a%2f%2fwww.cleveland.com%2fentertainment%2f2026%2f11%2fwhiskey-educator-hosts-exclusive-bourbon-tasting-event-in-avon-nov-24.html&c=15151125652597566123&mkt=en-us",
-      "publishedAt": "2026-11-17T01:55:00.000Z",
-      "firstSeenAt": "2026-11-25T18:43:55.670Z"
+      "type": "Festival",
+      "title": "Knob Creek 21-Year Bourbon Is Back For 2026. Here’s How It Tastes",
+      "state": "KY",
+      "details": "While I can’t speak to its exact pricing strategy, one bottle that certainly made waves was Knob Creek 21 Year Bourbon. First released during September’s Kentucky Bourbon Festival and then expanding ...",
+      "sourceName": "Bing News search: Kentucky bourbon raffles, lotteries, drops, picks & festivals",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736d946b047bc82d42c3f1aa42768&url=https%3a%2f%2fwww.forbes.com%2fsites%2fdavid-tao%2f2026%2f11%2f19%2fknob-creek-21-year-bourbon-is-back-for-2026-heres-how-it-tastes%2f&c=7990449177584848025&mkt=en-us",
+      "publishedAt": "2026-11-19T06:25:00.000Z",
+      "firstSeenAt": "2026-11-25T19:27:55.411Z"
     },
     {
       "id": "937b53b6c56c",
@@ -1044,18 +1031,6 @@
       "sourceUrl": "https://www.fredminnick.com/2026/11/16/row-94-announces-new-tasting-room-tour-2027-release/",
       "publishedAt": "2026-11-16T18:00:00.000Z",
       "firstSeenAt": "2026-11-24T16:19:51.825Z"
-    },
-    {
-      "id": "7cde9738b5e6",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "A Whiskey-Washed Cheese and Bourbon Collab Is Heading to Whole Foods Shelves, Courtesy of Barrell Craft Spirits",
-      "state": "VT",
-      "details": "Barrell Craft Spirits and Vermont cheesemaker Jasper Hill Farm have teamed up on a bourbon and cheese collaboration, with both products available exclusively at select Whole Foods Market locations in ...",
-      "sourceName": "Bing News search: Vermont bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c8e564c4c018e3a4a24fa3f9afe&url=https%3a%2f%2fwww.yahoo.com%2flifestyle%2farticles%2fwhiskey-washed-cheese-bourbon-collab-205930826.html&c=17124530128544378574&mkt=en-us",
-      "publishedAt": "2026-11-16T12:59:00.000Z",
-      "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
     {
       "id": "10faaafd795b",
@@ -1097,9 +1072,21 @@
       "state": "GA",
       "details": "Located in Chamblee, a suburb of Atlanta, Distillery of Modern Art (DoMA) was founded in 2022 by Seth Watson. It’s known for its unique approach to distilling, with the building housing the distillery ...",
       "sourceName": "Bing News search: Georgia bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b072c88521b425ab9146acd1211f1d9&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fdistillery-modern-art-releasing-first-220000162.html&c=12537272913250056396&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736d943b54c27bb701b2d15d7da2f&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fdistillery-modern-art-releasing-first-220000162.html&c=12537272913250056396&mkt=en-us",
       "publishedAt": "2026-11-13T14:00:00.000Z",
       "firstSeenAt": "2026-11-25T18:43:55.670Z"
+    },
+    {
+      "id": "662cef9149df",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Cleveland Whiskey releases a Zinfandel cask bourbon",
+      "state": "OH",
+      "details": "One Zinfandel Barrel, About 300 Bottles Cleveland Whiskey opened its holiday bourbon season on Saturday, October 24, 2026, with a Christmas Bourbon Zinfandel Cask Finish. It was a single-barrel batc ...",
+      "sourceName": "Bing News search: Ohio bourbon raffles, lotteries, drops, picks & festivals",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0736dcc8dc4b4aa49a78caebb94093&url=https%3a%2f%2fwww.msn.com%2fen-us%2fentertainment%2fgeneral%2fcleveland-whiskey-releases-a-zinfandel-cask-bourbon%2far-AA2hiEkS&c=16068343935083533274&mkt=en-us",
+      "publishedAt": "2026-11-12T08:00:00.000Z",
+      "firstSeenAt": "2026-11-25T19:27:55.411Z"
     },
     {
       "id": "00acee05825b",
