@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-11-25T16:44:08.196Z",
-  "count": 92,
+  "generatedAt": "2026-11-25T17:07:10.710Z",
+  "count": 112,
   "places": [
+    {
+      "name": "Amalga Distillery (Juneau, AK)",
+      "category": "distillery",
+      "states": [
+        "AK"
+      ],
+      "city": "Juneau",
+      "website": "https://amalgadistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Wine House (Anchorage, AK)",
+      "category": "store",
+      "states": [
+        "AK"
+      ],
+      "city": "Anchorage",
+      "website": "https://anchoragewinehouse.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "ABC Select Spirits online shop (Fort Payne, AL)",
+      "category": "store",
+      "states": [
+        "AL"
+      ],
+      "city": "Fort Payne",
+      "website": "https://alabamaselectspirits.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
     {
       "name": "Alabama ABC annual whiskey release sweepstakes",
       "category": "authority",
@@ -19,8 +52,18 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Hop City online shop (AL)",
+      "category": "store",
+      "states": [
+        "AL"
+      ],
+      "website": "https://hopcitybeer.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Cedar Ridge Distillery (Swisher, IA)",
@@ -30,7 +73,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -186,6 +229,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Galena River Wine & Cheese online shop (Galena, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Galena",
+      "website": "https://galenariverwineandcheese.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Judson & Moore Distillery (Chicago)",
       "category": "distillery",
       "states": [
@@ -284,6 +338,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Vinissimo Wine Shop online shop (Evanston, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Evanston",
+      "website": "https://vinissimowine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Whiskey Acres Distilling (DeKalb, IL)",
       "category": "distillery",
       "states": [
@@ -314,6 +379,16 @@
       "website": "https://www.hoteltango.com/",
       "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "LiqGo! online shop (IN)",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "website": "https://liqgo.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Owen Valley Winery (Spencer, IN)",
@@ -628,6 +703,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Corkscrew Johnny’s online shop (Richfield, OH)",
+      "category": "store",
+      "states": [
+        "OH"
+      ],
+      "city": "Richfield",
+      "website": "https://corkscrewjohnnys.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Ohio Liquor (OHLQ) bottle lottery",
       "category": "authority",
       "states": [
@@ -690,6 +776,105 @@
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
+      "name": "Bill's Package Store (Clarksville, TN)",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Clarksville",
+      "website": "https://billspackagestore.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Black Bear Wine & Spirits (Mountain City, TN)",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Mountain City",
+      "website": "https://blackbearwineandspiritstn.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Chattanooga Whiskey (Chattanooga, TN)",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Chattanooga",
+      "website": "https://chattanoogawhiskey.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Company Distilling (Townsend, TN)",
+      "category": "distillery",
+      "states": [
+        "TN"
+      ],
+      "city": "Townsend",
+      "website": "https://companydistilling.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Ole Smoky Distillery online shop (Gatlinburg, TN)",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Gatlinburg",
+      "website": "https://olesmoky.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Tennessee Hills Distillery (Jonesborough, TN)",
+      "category": "distillery",
+      "states": [
+        "TN"
+      ],
+      "city": "Jonesborough",
+      "website": "https://tennesseehills.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "1844 Liquor Market online shop (Brenham, TX)",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Brenham",
+      "website": "https://1844liquormarket.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Baja Duty Free online shop (Eagle Pass, TX)",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Eagle Pass",
+      "website": "https://bajadutyfree.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Barrel & Boots Fine Wine and Spirits (Richmond, TX)",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Richmond",
+      "website": "https://barrelandboots.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Garrison Brothers Distillery (Hye, TX)",
       "category": "distillery",
       "states": [
@@ -701,6 +886,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Pinkie's (Midland, TX)",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "city": "Midland",
+      "website": "https://pinkies.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Spec's Wines, Spirits & Finer Foods events (Texas)",
       "category": "store",
       "states": [
@@ -709,6 +905,17 @@
       "website": "https://specsonline.com/",
       "monitoring": "off",
       "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Wilson Valley Mercantile (Little River, TX)",
+      "category": "distillery",
+      "states": [
+        "TX"
+      ],
+      "city": "Little River",
+      "website": "https://wilsonvalley.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
     },
     {
       "name": "Utah DABS news (special barrel selections)",
@@ -954,6 +1161,16 @@
       "website": "https://www.statelinedistillery.com/",
       "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Waterford Wine and Spirits online shop (WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "website": "https://waterfordwine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Wollersheim Winery & Distillery (Prairie du Sac, WI)",
