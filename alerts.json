@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T15:40:53.206Z",
+  "generatedAt": "2026-11-25T15:41:58.264Z",
   "alertCount": 46,
   "verifiedCount": 21,
-  "sourcesChecked": 82,
+  "sourcesChecked": 83,
   "states": [
     "FL",
     "IA",
