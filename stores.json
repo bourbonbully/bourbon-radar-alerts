@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-25T09:52:42.275Z",
-  "count": 62,
+  "generatedAt": "2026-11-25T11:41:03.185Z",
+  "count": 84,
   "places": [
     {
       "name": "Alabama ABC annual whiskey release sweepstakes",
@@ -87,6 +87,17 @@
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
+      "name": "Beer Bazaar (Grayslake, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Grayslake",
+      "website": "https://thebeerbazaar.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Binny's Beverage Depot – Lincoln Park (Chicago)",
       "category": "store",
       "states": [
@@ -109,6 +120,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "D'Vine Wine and Gifts (Palatine, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Palatine",
+      "website": "https://d-vinewine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "FEW Spirits (Evanston, IL)",
       "category": "distillery",
       "states": [
@@ -120,6 +142,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Kenwood Liquors (Oak Lawn, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Oak Lawn",
+      "website": "https://kenwoodliquors.biz/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "KOVAL Distillery (Chicago)",
       "category": "distillery",
       "states": [
@@ -129,6 +162,17 @@
       "website": "https://www.koval-distillery.com/",
       "monitoring": "off",
       "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Le Midi (Chicago, IL)",
+      "category": "store",
+      "states": [
+        "IL"
+      ],
+      "city": "Chicago",
+      "website": "https://lemidiwine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Randall's Wines & Spirits (Illinois)",
@@ -184,6 +228,17 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Owen Valley Winery (Spencer, IN)",
+      "category": "store",
+      "states": [
+        "IN"
+      ],
+      "city": "Spencer",
+      "website": "https://owenvalleywinery.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Starlight Distillery (Starlight, IN)",
       "category": "distillery",
       "states": [
@@ -195,6 +250,38 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Heaven Hill Distilleries (KY)",
+      "category": "distillery",
+      "states": [
+        "KY"
+      ],
+      "website": "https://heavenhill.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Jeptha Creed Distillery (Shelbyville, KY)",
+      "category": "distillery",
+      "states": [
+        "KY"
+      ],
+      "city": "Shelbyville",
+      "website": "https://jepthacreed.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Liquor Emporium (Somerset, KY)",
+      "category": "store",
+      "states": [
+        "KY"
+      ],
+      "city": "Somerset",
+      "website": "https://liquoremporium.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Montgomery County MD (ABS) highly allocated bourbon releases",
       "category": "authority",
       "states": [
@@ -203,6 +290,38 @@
       "website": "https://www.montgomerycountymd.gov/ABS/HAL/",
       "monitoring": "active",
       "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Black Star Farms Old Mission (MI)",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "website": "https://blackstarfarms.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Eastman Party Store (Midland, MI)",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Midland",
+      "website": "https://eastmanpartystore.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Iron Fish Distillery (Thompsonville, MI)",
+      "category": "distillery",
+      "states": [
+        "MI"
+      ],
+      "city": "Thompsonville",
+      "website": "https://ironfishdistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
     },
     {
       "name": "Journeyman Distillery (Three Oaks, MI)",
@@ -225,6 +344,28 @@
       "website": "https://www.longroaddistillers.com/",
       "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Queens Provisions (Flint, MI)",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Flint",
+      "website": "https://queensofflint.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "St. Julian Winery Store (Dundee, MI)",
+      "category": "store",
+      "states": [
+        "MI"
+      ],
+      "city": "Dundee",
+      "website": "https://stjulian.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Traverse City Whiskey Co.",
@@ -354,7 +495,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -407,6 +548,38 @@
       "website": "https://www.ohlq.com",
       "monitoring": "off",
       "watches": "Rare-bottle lotteries and allocated releases"
+    },
+    {
+      "name": "Red, Wine, and Brew (OH)",
+      "category": "store",
+      "states": [
+        "OH"
+      ],
+      "website": "https://redwineandbrew.us/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Rumbleseat Wine (Centerville, OH)",
+      "category": "store",
+      "states": [
+        "OH"
+      ],
+      "city": "Centerville",
+      "website": "https://rumbleseatwine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "The Daily Growler (Upper Arlington, OH)",
+      "category": "store",
+      "states": [
+        "OH"
+      ],
+      "city": "Upper Arlington",
+      "website": "https://thedailygrowler.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
     },
     {
       "name": "Oregon OLCC Chance to Purchase",
@@ -532,6 +705,17 @@
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
+      "name": "Central Standard Craft Distillery (Milwaukee, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Milwaukee",
+      "website": "https://thecentralstandard.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
       "name": "Central Standard Distillery (Milwaukee)",
       "category": "distillery",
       "states": [
@@ -609,6 +793,48 @@
       "watches": "Releases, tastings and distillery events"
     },
     {
+      "name": "Mondo! Wine Bar & Retail (Appleton, WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Appleton",
+      "website": "https://mondowinebar.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Northern Waters Distillery (Minocqua, WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "city": "Minocqua",
+      "website": "https://northernwatersdistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Old Sugar Distillery (WI)",
+      "category": "distillery",
+      "states": [
+        "WI"
+      ],
+      "website": "https://oldsugardistillery.com/",
+      "monitoring": "active",
+      "watches": "Releases, tastings and distillery events"
+    },
+    {
+      "name": "Otto’s (WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "website": "https://ottoswineandspirits.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
       "name": "Ray's Wine & Spirits (Wauwatosa, WI)",
       "category": "store",
       "states": [
@@ -617,6 +843,17 @@
       "city": "Wauwatosa",
       "website": "https://www.rayswine.com/",
       "monitoring": "off",
+      "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Red Schoolhouse Wines (Stone Lake, WI)",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Stone Lake",
+      "website": "https://redschoolhousewines.com/",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
