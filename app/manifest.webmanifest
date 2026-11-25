@@ -1,0 +1,23 @@
+{
+  "name": "Bourbon Bully – Bourbon Radar",
+  "short_name": "Bourbon Radar",
+  "description": "Bourbon raffles, allocated drops, barrel picks, releases and events near you.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#121011",
+  "theme_color": "#121011",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-1024.png",
+      "sizes": "1024x1024",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
