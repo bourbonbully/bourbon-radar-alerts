@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T17:07:10.710Z",
+  "generatedAt": "2026-11-25T17:30:28.161Z",
   "count": 112,
   "places": [
     {
@@ -52,7 +52,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
