@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T08:12:53.326Z",
+  "generatedAt": "2026-11-25T09:52:42.275Z",
   "count": 62,
   "places": [
     {
@@ -19,7 +19,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -354,7 +354,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
