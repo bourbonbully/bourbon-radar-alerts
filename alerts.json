@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T11:41:03.185Z",
-  "alertCount": 33,
+  "generatedAt": "2026-11-25T12:13:14.515Z",
+  "alertCount": 38,
   "verifiedCount": 18,
-  "sourcesChecked": 72,
+  "sourcesChecked": 69,
   "states": [
     "FL",
     "IA",
@@ -12,6 +12,7 @@
     "MA",
     "MI",
     "MN",
+    "NJ",
     "WI"
   ],
   "alerts": [
@@ -28,7 +29,7 @@
       "zip": "40206",
       "lat": 38.2567,
       "lng": -85.7023,
-      "details": "Repeats: 11 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
+      "details": "Repeats: 12 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
       "sourceName": "Things to Lou – Bourbon events",
       "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-25/",
       "firstSeenAt": "2026-11-24T17:02:56.305Z"
@@ -98,6 +99,18 @@
       "sourceName": "Ledgerock Distillery",
       "sourceUrl": "https://www.ledgerockdistillery.com/",
       "firstSeenAt": "2026-11-24T12:00:00.000Z"
+    },
+    {
+      "id": "df52daf3a249",
+      "status": "unconfirmed",
+      "type": "Allocated Drop",
+      "title": "SHOP SMALL Sips & Specials",
+      "startsAt": "2026-11-28T19:00:00.000Z",
+      "state": "WI",
+      "details": "Drop by and step into our production room on Shop Small Saturday from 1-4pm. Free samples of our locally produced spirits, made with our pristine waters, regional grains and botanicals, and featuring: Flavored Vodkas, Gins, Moonshines, Rums and Whiskeys High Quality Base Spirits: Premium Vodka, Northwoods Gin, White Rum and Original Moonshine Barrel-Aged Spirits: Bourbon, Brandy, Gin, Whiskey and Moonshine 10% off…",
+      "sourceName": "Northern Waters Distillery (Minocqua, WI)",
+      "sourceUrl": "https://northernwatersdistillery.com/event/shop-small-samples-specials/",
+      "firstSeenAt": "2026-11-25T12:13:14.515Z"
     },
     {
       "id": "b63a0b0ba1e3",
@@ -411,6 +424,24 @@
       "firstSeenAt": "2026-11-24T12:00:00.000Z"
     },
     {
+      "id": "a03cd32091d4",
+      "status": "unconfirmed",
+      "type": "Distillery Event",
+      "title": "The Whiskey Social",
+      "startsAt": "2027-04-01T23:00:00.000Z",
+      "venue": "The Madison Hotel",
+      "address": "One Convent Road",
+      "city": "Morristown",
+      "state": "NJ",
+      "zip": "07960",
+      "lat": 40.7792,
+      "lng": -74.5025,
+      "details": "@ Add to calendar Google Calendar iCalendar Outlook 365 Outlook Live",
+      "sourceName": "WhiskyCast Events Calendar",
+      "sourceUrl": "https://whiskycast.com/calendar-of-events/the-whiskey-social/",
+      "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
       "id": "be68c7191533",
       "status": "unconfirmed",
       "type": "Festival",
@@ -493,7 +524,7 @@
       "title": "Kroger's Pappy Van Winkle bourbon lottery returns Black Friday",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b05fa1a1f92468f8573a0abd2f25713&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b06d0ed9a754523b41fae7d0d45c1b4&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
@@ -526,6 +557,22 @@
       "firstSeenAt": "2026-11-24T16:19:51.825Z"
     },
     {
+      "id": "10faaafd795b",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "World Series Champion and Cy Young Award Winner Jacob Misiorowski Brings the Heat with Limited-Edition Central Standard Miz’Kee Bourbon",
+      "venue": "Central Standard Craft Distillery",
+      "city": "Milwaukee",
+      "state": "WI",
+      "lat": 43.0633,
+      "lng": -87.9667,
+      "details": "The Brewers’ superstar pitcher celebrates a historic season with a 105.5-proof collector’s release benefiting Wisconsin Parkinson Association, available Black Friday at our Crafthouse & Kitchen location. World Series champion. National League Cy Young Award winner. Two-time MLB All-Star. Jacob Misiorowski has given Milwaukee Brewers fans a baseball season to remember. Now, the electrifying young pitcher […] The post…",
+      "sourceName": "Central Standard Craft Distillery (Milwaukee, WI)",
+      "sourceUrl": "https://thecentralstandard.com/world-series-champion-and-cy-young-award-winner-jacob-misiorowski-brings-the-heat-with-limited-edition-central-standard-mizkee-bourbon/",
+      "publishedAt": "2026-11-14T21:35:11.000Z",
+      "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
       "id": "c77a8c4adaa5",
       "status": "unconfirmed",
       "type": "Tasting",
@@ -540,6 +587,35 @@
       "sourceUrl": "https://brotherjustus.com/events/art-of-the-sip-2026",
       "publishedAt": "2026-11-13T16:41:01.000Z",
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
+    },
+    {
+      "id": "00acee05825b",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Iron Fish Distillery Debuts NEW Riverbed Whiskey, Continuing Its Commitment to Michigan Rivers",
+      "venue": "Iron Fish Distillery",
+      "city": "Thompsonville",
+      "state": "MI",
+      "lat": 44.52,
+      "lng": -85.938,
+      "details": "Iron Fish Distillery Debuts NEW Riverbed Whiskey, Continuing Its Commitment to Michigan Rivers SPRINGDALE TOWNSHIP, MI — October 31th, 2026 — Iron Fish Distillery is proud to introduce the second iteration of Mad Angler® Riverbed Whiskey, a limited seasonal release that represents the pinnacle expression of the Mad Angler brand. The Mad Angler name—drawn from the writings of […] The post Iron Fish Distillery Debuts…",
+      "sourceName": "Iron Fish Distillery (Thompsonville, MI)",
+      "sourceUrl": "https://ironfishdistillery.com/iron-fish-distillery-debuts-new-riverbed-whiskey-continuing-its-commitment-to-michigan-rivers/",
+      "publishedAt": "2026-11-03T12:04:13.000Z",
+      "firstSeenAt": "2026-11-25T12:13:14.515Z"
+    },
+    {
+      "id": "52cd33820f9e",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Heaven Hill Distillery Announces Heaven Hill Phoenix, a Limited-Edition Bourbon Commemorating Three Decades of Resilience",
+      "venue": "Heaven Hill Distilleries",
+      "state": "KY",
+      "details": "Marrying 18-year-old bourbon with 30-year-old liquid distilled before the flames, this one-time release creates a remarkable connection between Heaven Hill’s past and present BARDSTOWN, Ky. (October 27, 2026) — Thirty years after the 1996 fire at Old Heaven Hill Springs Distillery, Heaven Hill Distillery today introduced Heaven Hill Phoenix, a limited-edition, one-time 18-year-old Kentucky Straight […] The post…",
+      "sourceName": "Heaven Hill Distilleries (KY)",
+      "sourceUrl": "https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-heaven-hill-phoenix-a-limited-edition-bourbon-commemorating-three-decades-of-resilience/",
+      "publishedAt": "2026-10-28T19:42:44.000Z",
+      "firstSeenAt": "2026-11-25T12:13:14.515Z"
     },
     {
       "id": "5ecb6c77badc",

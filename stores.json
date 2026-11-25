@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T11:41:03.185Z",
+  "generatedAt": "2026-11-25T12:13:14.515Z",
   "count": 84,
   "places": [
     {
@@ -30,7 +30,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -62,7 +62,7 @@
       ],
       "city": "Osceola",
       "website": "https://reveltondistillery.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -94,7 +94,7 @@
       ],
       "city": "Grayslake",
       "website": "https://thebeerbazaar.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -495,7 +495,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -536,7 +536,7 @@
       ],
       "city": "Fairport",
       "website": "https://ironsmokedistillery.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
