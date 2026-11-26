@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-26T09:49:42.397Z",
-  "count": 594,
+  "generatedAt": "2026-11-26T11:39:31.184Z",
+  "count": 609,
   "places": [
     {
       "name": "Amalga Distillery (Juneau, AK)",
@@ -54,7 +54,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -1697,7 +1697,7 @@
       "website": "https://www.facebook.com/tosaliquor",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "facebook": "https://www.facebook.com/tosaliquor"
+      "facebook": "https://www.facebook.com/1881liquors"
     },
     {
       "name": "Grove Liquor Mart",
@@ -1792,6 +1792,7 @@
       "website": "https://www.augustafoodandwine.com/",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/augustafoodandwine",
       "instagram": "https://www.instagram.com/augustafoodandwine/"
     },
     {
@@ -7204,6 +7205,185 @@
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
       "instagram": "https://www.instagram.com/adamswineshop/"
+    },
+    {
+      "name": "Swirl Wine Shop & Lounge",
+      "category": "store",
+      "states": [
+        "ID"
+      ],
+      "city": "Nampa",
+      "website": "https://www.facebook.com/swirlaglass",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/swirlaglass"
+    },
+    {
+      "name": "The Liquor Warehouse",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Wichita",
+      "website": "https://www.facebook.com/theliquorwarehousewichita",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/theliquorwarehousewichita"
+    },
+    {
+      "name": "Alvin's Wine & Spirits",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Lawrence",
+      "website": "https://www.facebook.com/alvinswineandspirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/alvinswineandspirits"
+    },
+    {
+      "name": "Rada's Cellar Wine and Spirits",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Saint Marys",
+      "website": "https://www.facebook.com/radascellarwineandspirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/radascellarwineandspirits"
+    },
+    {
+      "name": "NOTO Wine and Spirits",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Topeka",
+      "website": "https://www.facebook.com/137309759644140",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/137309759644140"
+    },
+    {
+      "name": "Glass House Liquor",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Lawrence",
+      "website": "https://www.facebook.com/glasshouseliquor",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/glasshouseliquor"
+    },
+    {
+      "name": "Happy Hour Liquor and Tobacco",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Lawrence",
+      "website": "https://www.facebook.com/happyhourliquorks",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/happyhourliquorks"
+    },
+    {
+      "name": "Hwy 69 Liquor",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "website": "https://www.facebook.com/61556727037923",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/61556727037923"
+    },
+    {
+      "name": "Roy's Wine & Spirits",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Lawrence",
+      "website": "https://www.facebook.com/royswineandspirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/royswineandspirits"
+    },
+    {
+      "name": "ABC",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "website": "https://www.facebook.com/abcwinespirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/abcwinespirits"
+    },
+    {
+      "name": "505 Tobacco & Liquor",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "website": "https://www.facebook.com/505tobaccoandliquor",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/505tobaccoandliquor"
+    },
+    {
+      "name": "Gardner Liquor",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Gardner",
+      "website": "https://www.facebook.com/807503939117106",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/807503939117106"
+    },
+    {
+      "name": "Spirits of 76",
+      "category": "store",
+      "states": [
+        "KS"
+      ],
+      "city": "Wamego",
+      "website": "https://www.spiritsof76liquor.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/spiritsof76wamego"
+    },
+    {
+      "name": "Yellowfin Distillery",
+      "category": "distillery",
+      "states": [
+        "LA"
+      ],
+      "city": "Sulphur",
+      "website": "https://www.yellowfindistillery.com",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/yellowfindistillery",
+      "instagram": "https://www.instagram.com/yellowfindistillery/"
+    },
+    {
+      "name": "Apostle 22",
+      "category": "store",
+      "states": [
+        "WI"
+      ],
+      "city": "Bayfield",
+      "website": "https://apostle22.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/apostle22wine",
+      "instagram": "https://www.instagram.com/apostle22shop/"
     }
   ]
 }

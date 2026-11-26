@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-26T09:49:42.397Z",
-  "alertCount": 85,
-  "verifiedCount": 58,
-  "sourcesChecked": 184,
+  "generatedAt": "2026-11-26T11:39:31.184Z",
+  "alertCount": 84,
+  "verifiedCount": 57,
+  "sourcesChecked": 183,
   "states": [
     "AL",
     "AZ",
@@ -26,24 +26,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "808a2153a0d3",
-      "status": "verified",
-      "type": "Barrel Pick",
-      "title": "Exclusive Cask Preview: Le Mercredi Noir Grayslake",
-      "startsAt": "2026-11-25T23:00:00.000Z",
-      "venue": "The Beer Bazaar",
-      "address": "107 Center Street",
-      "city": "Grayslake",
-      "state": "IL",
-      "zip": "60030",
-      "lat": 42.3351,
-      "lng": -88.0451,
-      "details": "Kick off the holiday weekend in the dark at Le Mercredi Noir Grayslake , an exclusive, one-night-only barrel pick preview hosted at Beer Bazaar on Wednesday, November 25, from 5: 00 PM to 10: 00 PM! Skip the usual pre-Thanksgiving chaos and step inside for the very first pour of our newest Thornton Distilling Barrel Pick , showcased in two bespoke cocktails available for one night only while bottle preorders remain…",
-      "sourceName": "Beer Bazaar (Grayslake, IL)",
-      "sourceUrl": "https://thebeerbazaar.com/event/le-mercredi-noir-grayslake/",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
-    },
     {
       "id": "67fa7756d77c",
       "status": "unconfirmed",
