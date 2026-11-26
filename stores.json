@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T08:10:51.029Z",
+  "generatedAt": "2026-11-26T09:49:42.397Z",
   "count": 594,
   "places": [
     {
@@ -1083,7 +1083,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
