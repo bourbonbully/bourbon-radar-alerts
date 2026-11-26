@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-26T02:02:51.686Z",
+  "generatedAt": "2026-11-26T03:40:52.807Z",
   "alertCount": 86,
   "verifiedCount": 60,
-  "sourcesChecked": 183,
+  "sourcesChecked": 184,
   "states": [
     "AL",
     "AZ",
