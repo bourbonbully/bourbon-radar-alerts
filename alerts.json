@@ -1,13 +1,12 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-25T23:33:42.485Z",
-  "alertCount": 87,
+  "generatedAt": "2026-11-26T02:02:51.686Z",
+  "alertCount": 86,
   "verifiedCount": 60,
   "sourcesChecked": 183,
   "states": [
     "AL",
-    "AR",
     "AZ",
     "CA",
     "CO",
@@ -1324,20 +1323,6 @@
       "sourceUrl": "https://thewhiskeywash.com/whiskey-news/milam-greene-port-finished-rye-holiday-2026-release/",
       "publishedAt": "2026-11-24T14:24:52.000Z",
       "firstSeenAt": "2026-11-24T17:06:16.779Z"
-    },
-    {
-      "id": "025c3be168b1",
-      "status": "unconfirmed",
-      "type": "Bottle Arrival",
-      "title": "Green River – reported (AR)",
-      "state": "AR",
-      "details": "🥃 Fiddler Bourbon hits Arkansas shelves! We cover five ASW whiskeys and share a YouTube review for each, including a blind tasting where Bobby Bonin picked Fiddler Wheated over Green River Wheated. arkansasliquor.com/index.php/20... #LittleRock #ASWDistillery #Arkansas #NWArkansas",
-      "bottleName": "Green River",
-      "availability": "Posted on Bluesky Nov 22, 7:20 PM – not confirmed in stock",
-      "sourceName": "@arkansasliquor.com on Bluesky",
-      "sourceUrl": "https://bsky.app/profile/arkansasliquor.com/post/3n2wxnkbl722k",
-      "publishedAt": "2026-11-23T01:20:42.270Z",
-      "firstSeenAt": "2026-11-25T20:21:35.496Z"
     },
     {
       "id": "daa2f9d3c5e1",
