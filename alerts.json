@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-26T15:41:10.755Z",
-  "alertCount": 92,
+  "generatedAt": "2026-11-26T17:37:35.503Z",
+  "alertCount": 91,
   "verifiedCount": 64,
-  "sourcesChecked": 182,
+  "sourcesChecked": 181,
   "states": [
     "AZ",
     "CA",
@@ -25,24 +25,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "67fa7756d77c",
-      "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "Up on The Rooftop at Copper & Kings",
-      "startsAt": "2026-11-26T05:00:00.000Z",
-      "venue": "Copper & Kings Distillery",
-      "address": "1121 East Washington St",
-      "city": "Louisville",
-      "state": "KY",
-      "zip": "40206",
-      "lat": 38.2567,
-      "lng": -85.7023,
-      "details": "Repeats: 11 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
-      "sourceName": "Things to Lou – Bourbon events",
-      "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-26/",
-      "firstSeenAt": "2026-11-25T17:07:10.710Z"
-    },
     {
       "id": "88fc04002592",
       "status": "verified",
