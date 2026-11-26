@@ -1,9 +1,9 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-26T05:40:29.158Z",
-  "alertCount": 86,
-  "verifiedCount": 60,
+  "generatedAt": "2026-11-26T08:10:51.029Z",
+  "alertCount": 85,
+  "verifiedCount": 58,
   "sourcesChecked": 183,
   "states": [
     "AL",
@@ -26,36 +26,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "57ef03fdd3b3",
-      "status": "verified",
-      "type": "Distillery Event",
-      "title": "Whiskey Wednesday",
-      "startsAt": "2026-11-25T18:00:00.000Z",
-      "venue": "Mississippi River Distilling",
-      "city": "LeClaire",
-      "state": "IA",
-      "details": "Repeats: 74 upcoming dates. Showing the next one. Join us every Wednesday at both locations for our Whiskey Wednesday ! Specials for Everyone : Save $2 on all whiskey cocktails! Whiskey Club Members : Enjoy Buy One Get One Free whiskey cocktails! If you’re not a Whiskey Club member yet, now’s the time to join! Don’t miss out—grab a friend and let’s make Wednesdays your favorite night of the week!",
-      "sourceName": "Mississippi River Distilling (LeClaire, IA)",
-      "sourceUrl": "https://www.mrdistilling.com/event/whiskey-wednesday/2026-11-25/",
-      "firstSeenAt": "2026-11-24T17:58:53.938Z"
-    },
-    {
-      "id": "9f135ab76786",
-      "status": "verified",
-      "type": "Tasting",
-      "title": "Tasting Event – St. Petersburg",
-      "startsAt": "2026-11-25T18:00:00.000Z",
-      "venue": "Company Distilling",
-      "city": "Townsend",
-      "state": "TN",
-      "lat": 35.6763,
-      "lng": -83.753,
-      "details": "Join us in St. Petersburg, FL at ABC Fine Wine & Spirits for a free tasting of Company Distilling’s flagship spirits. ABC Fine Wine & Spirits Store 36 3535 4th Street North St. Petersburg, FL",
-      "sourceName": "Company Distilling (Townsend, TN)",
-      "sourceUrl": "https://companydistilling.com/events/tasting-event-47/",
-      "firstSeenAt": "2026-11-25T17:52:17.307Z"
-    },
     {
       "id": "808a2153a0d3",
       "status": "verified",
@@ -575,6 +545,20 @@
       "sourceName": "Distillery Trail events",
       "sourceUrl": "https://www.distillerytrail.com/events/bourbon-on-the-banks-festival-2027/",
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
+    },
+    {
+      "id": "db4287f685be",
+      "status": "unconfirmed",
+      "type": "Allocated Drop",
+      "title": "Weller – reported (CA)",
+      "state": "CA",
+      "details": "My oldest book is a leather-bound copy of Bancroft’s “California Pastorale,” that I read while writing The Master of Monterey. Sam Weller in Salt Lake City found it for me and was so pleased he called me himself.",
+      "bottleName": "Weller",
+      "availability": "Posted on Bluesky Nov 26, 12:34 AM – not confirmed in stock",
+      "sourceName": "@lwcoates.bsky.social on Bluesky",
+      "sourceUrl": "https://bsky.app/profile/lwcoates.bsky.social/post/3n372lkoips2v",
+      "publishedAt": "2026-11-26T06:34:34.711Z",
+      "firstSeenAt": "2026-11-26T08:10:51.029Z"
     },
     {
       "id": "3ccf21c29ce5",
