@@ -1,7 +1,7 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-27T21:38:42.682Z",
+  "generatedAt": "2026-11-27T23:36:09.015Z",
   "alertCount": 98,
   "verifiedCount": 72,
   "sourcesChecked": 181,
@@ -524,21 +524,32 @@
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
     },
     {
-      "id": "3047bea4e67d",
+      "id": "deb3ff5f7deb",
+      "status": "unconfirmed",
+      "type": "Raffle",
+      "title": "Idaho State Liquor rare product lottery: new update posted",
+      "state": "ID",
+      "details": "Special Releases | Rare & Limited Liquor Idaho | ISLD • Special Releases • 750 ML | 86.00 Proof Product Code: 7090 Price: $124 99 Rare Character Limited Release Bourbon • Barrel Releases • Lottery Terms and Conditions • 2025 Lottery Recap",
+      "sourceName": "Idaho State Liquor rare product lottery",
+      "sourceUrl": "https://idaholiquor.com/special-releases",
+      "publishedAt": "2026-11-27T23:36:09.015Z",
+      "firstSeenAt": "2026-11-26T23:38:23.491Z"
+    },
+    {
+      "id": "7d4e27403536",
       "status": "verified",
       "type": "Bottle Arrival",
-      "title": "Three Floyds Dark Lord Whiskey 750ML – new arrival at Liquor Barn",
+      "title": "Ben Holladay 6 Year Ancient Cave Collection Cask Strength Bourbon 750ML – new arrival at Liquor Barn",
       "venue": "Liquor Barn",
       "state": "IL",
-      "details": "New arrival – confirmed in stock on the store's website on Liquor Barn's online shop for $74.99. Stock changes fast – check the store before you go.",
-      "bottleName": "Three Floyds Dark Lord Whiskey 750ML",
-      "price": "$74.99",
+      "details": "New arrival – confirmed in stock on the store's website on Liquor Barn's online shop for $89.99. Stock changes fast – check the store before you go.",
+      "bottleName": "Ben Holladay 6 Year Ancient Cave Collection Cask Strength Bourbon 750ML",
+      "price": "$89.99",
       "availability": "New arrival – confirmed in stock on the store's website",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0680/1024/6313/files/ThreeFloydsDarkLordWhiskey750ML.webp?v=1795812257",
       "sourceName": "Liquor Barn online shop",
-      "sourceUrl": "https://theliquorbarn.com/products/three-floyds-dark-lord-whiskey-750ml",
-      "publishedAt": "2026-11-27T21:38:42.682Z",
-      "firstSeenAt": "2026-11-27T21:38:42.682Z"
+      "sourceUrl": "https://theliquorbarn.com/products/ben-holladay-6-year-ancient-cave-collection-cask-strength-bourbon-750ml",
+      "publishedAt": "2026-11-27T23:36:09.015Z",
+      "firstSeenAt": "2026-11-27T23:36:09.015Z"
     },
     {
       "id": "19bcdb7494ce",
@@ -556,18 +567,6 @@
       "sourceUrl": "https://waterfordwine.com/products/dancing-goat-11-year-chocolate-bitters-finished-limousin-rye-waterford-pick",
       "publishedAt": "2026-11-27T17:38:45.419Z",
       "firstSeenAt": "2026-11-27T17:38:45.419Z"
-    },
-    {
-      "id": "deb3ff5f7deb",
-      "status": "unconfirmed",
-      "type": "Raffle",
-      "title": "Idaho State Liquor rare product lottery: new update posted",
-      "state": "ID",
-      "details": "Special Releases | Rare & Limited Liquor Idaho | ISLD • Special Releases • 750 ML | 86.00 Proof Product Code: 7090 Price: $124 99 Rare Character Limited Release Bourbon • Barrel Releases • Lottery Terms and Conditions • 2025 Lottery Recap",
-      "sourceName": "Idaho State Liquor rare product lottery",
-      "sourceUrl": "https://idaholiquor.com/special-releases",
-      "publishedAt": "2026-11-27T14:00:46.996Z",
-      "firstSeenAt": "2026-11-26T23:38:23.491Z"
     },
     {
       "id": "f7e7e9cd50f1",
