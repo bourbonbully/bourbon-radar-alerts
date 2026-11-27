@@ -1,9 +1,9 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-27T15:41:22.502Z",
+  "generatedAt": "2026-11-27T17:38:45.419Z",
   "alertCount": 98,
-  "verifiedCount": 71,
+  "verifiedCount": 72,
   "sourcesChecked": 181,
   "states": [
     "AZ",
@@ -25,24 +25,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "3b9dede2d814",
-      "status": "unconfirmed",
-      "type": "Tasting",
-      "title": "Up on The Rooftop at Copper & Kings",
-      "startsAt": "2026-11-27T05:00:00.000Z",
-      "venue": "Copper & Kings Distillery",
-      "address": "1121 East Washington St",
-      "city": "Louisville",
-      "state": "KY",
-      "zip": "40206",
-      "lat": 38.2567,
-      "lng": -85.7023,
-      "details": "Repeats: 10 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
-      "sourceName": "Things to Lou – Bourbon events",
-      "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-27/",
-      "firstSeenAt": "2026-11-27T12:06:34.071Z"
-    },
     {
       "id": "82d858f13091",
       "status": "verified",
@@ -542,6 +524,39 @@
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
     },
     {
+      "id": "8ab0463aff1b",
+      "status": "verified",
+      "type": "Bottle Arrival",
+      "title": "Goose Island Bourbon County Brand Proprietor's Upside Down Cake 16.9OZ – back in stock at Liquor Barn",
+      "venue": "Liquor Barn",
+      "state": "IL",
+      "details": "Back in stock – confirmed in stock on the store's website on Liquor Barn's online shop for $29.99. Stock changes fast – check the store before you go.",
+      "bottleName": "Goose Island Bourbon County Brand Proprietor's Upside Down Cake 16.9OZ",
+      "price": "$29.99",
+      "availability": "Back in stock – confirmed in stock on the store's website",
+      "sourceName": "Liquor Barn online shop",
+      "sourceUrl": "https://theliquorbarn.com/products/goose-island-bourbon-county-brand-proprietors-upside-down-cake-16-9oz",
+      "publishedAt": "2026-11-27T17:38:45.419Z",
+      "firstSeenAt": "2026-11-27T17:38:45.419Z"
+    },
+    {
+      "id": "19bcdb7494ce",
+      "status": "verified",
+      "type": "Bottle Arrival",
+      "title": "Dancing Goat 11 Year WI Honey Finished Limousin Rye Waterford Pick – new arrival at Waterford Wine and Spirits",
+      "venue": "Waterford Wine and Spirits",
+      "state": "WI",
+      "details": "New arrival – confirmed in stock on the store's website on Waterford Wine and Spirits's online shop for $54.99. Stock changes fast – check the store before you go.",
+      "bottleName": "Dancing Goat 11 Year WI Honey Finished Limousin Rye Waterford Pick",
+      "price": "$54.99",
+      "availability": "New arrival – confirmed in stock on the store's website",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0579/2805/7022/files/Website-photo_template_20241202_125043_0000.png?v=1733173201",
+      "sourceName": "Waterford Wine and Spirits online shop",
+      "sourceUrl": "https://waterfordwine.com/products/dancing-goat-11-year-chocolate-bitters-finished-limousin-rye-waterford-pick",
+      "publishedAt": "2026-11-27T17:38:45.419Z",
+      "firstSeenAt": "2026-11-27T17:38:45.419Z"
+    },
+    {
       "id": "deb3ff5f7deb",
       "status": "unconfirmed",
       "type": "Raffle",
@@ -821,23 +836,6 @@
       "sourceUrl": "https://cwspirits.com/products/stonestreet-founder-s-edition-kentucky-straight-bourbon-bundle",
       "publishedAt": "2026-11-27T12:06:34.071Z",
       "firstSeenAt": "2026-11-27T12:06:34.071Z"
-    },
-    {
-      "id": "2ea662bc3c6c",
-      "status": "verified",
-      "type": "Bottle Arrival",
-      "title": "John A.P. Conoley Salted Caramel 750ML – back in stock at Liquor Barn",
-      "venue": "Liquor Barn",
-      "state": "IL",
-      "details": "Back in stock – confirmed in stock on the store's website on Liquor Barn's online shop for $26.99. Stock changes fast – check the store before you go.",
-      "bottleName": "John A.P. Conoley Salted Caramel 750ML",
-      "price": "$26.99",
-      "availability": "Back in stock – confirmed in stock on the store's website",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0680/1024/6313/files/JohnA.P.ConoleySaltedCaramel750ML.webp?v=1773536573",
-      "sourceName": "Liquor Barn online shop",
-      "sourceUrl": "https://theliquorbarn.com/products/john-a-p-conoley-salted-caramel-750ml",
-      "publishedAt": "2026-11-26T19:49:03.612Z",
-      "firstSeenAt": "2026-11-26T19:49:03.612Z"
     },
     {
       "id": "91c94ca4a82a",
@@ -1288,7 +1286,7 @@
       "title": "Allocated: Willett Family 7 Year Rye Cask #0671 ABV 104.6 – available now at Waterford Wine and Spirits",
       "venue": "Waterford Wine and Spirits",
       "state": "WI",
-      "details": "Available now – confirmed in stock on the store's website on Waterford Wine and Spirits's online shop for $171.99. Stock changes fast – check the store before you go. Also posted: Waterford Wine and Spirits online shop – https://waterfordwine.com/products/willett-family-11yr-bourbon-cask-3057 Also posted: Waterford Wine and Spirits online shop – https://waterfordwine.com/products/willett-family-11yr-bourbon-cask-3072 Also posted: Waterford Wine and Spirits online shop – https://waterfordwine.com/products/willett-family-11yr-rye-cask-2430",
+      "details": "Available now – confirmed in stock on the store's website on Waterford Wine and Spirits's online shop for $171.99. Stock changes fast – check the store before you go. Also posted: Waterford Wine and Spirits online shop – https://waterfordwine.com/products/willett-family-11yr-bourbon-cask-3072 Also posted: Waterford Wine and Spirits online shop – https://waterfordwine.com/products/willett-family-11yr-rye-cask-2430",
       "bottleName": "Willett Family 7 Year Rye Cask #0671 ABV 104.6",
       "price": "$171.99",
       "availability": "Confirmed in stock on the store's website (also announced on social media)",
