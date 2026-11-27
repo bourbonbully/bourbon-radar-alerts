@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-27T09:47:17.823Z",
+  "generatedAt": "2026-11-27T11:37:33.003Z",
   "alertCount": 94,
   "verifiedCount": 65,
-  "sourcesChecked": 182,
+  "sourcesChecked": 179,
   "states": [
     "AZ",
     "CA",
@@ -533,7 +533,7 @@
       "details": "Special Releases | Rare & Limited Liquor Idaho | ISLD • Special Releases • 750 ML | 86.00 Proof Product Code: 7090 Price: $124 99 Rare Character Limited Release Bourbon • Barrel Releases • Lottery Terms and Conditions • 2025 Lottery Recap",
       "sourceName": "Idaho State Liquor rare product lottery",
       "sourceUrl": "https://idaholiquor.com/special-releases",
-      "publishedAt": "2026-11-27T08:08:28.317Z",
+      "publishedAt": "2026-11-27T11:37:33.003Z",
       "firstSeenAt": "2026-11-26T23:38:23.491Z"
     },
     {
