@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-27T11:37:33.003Z",
+  "generatedAt": "2026-11-27T12:06:34.071Z",
   "count": 635,
   "places": [
     {
@@ -44,7 +44,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/18023061",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -54,7 +54,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "city": "Phoenix",
       "website": "https://hiddentrackbottleshop.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -456,7 +456,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -650,7 +650,7 @@
       ],
       "city": "Oak Lawn",
       "website": "https://kenwoodliquors.biz/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles",
       "facebook": "https://www.facebook.com/kenwoodliquors",
       "instagram": "https://www.instagram.com/kenwoodliquors/"
@@ -943,7 +943,7 @@
       ],
       "city": "Detroit",
       "website": "https://www.twojames.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -1209,7 +1209,7 @@
       ],
       "city": "Mountain City",
       "website": "https://blackbearwineandspiritstn.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Events, tastings, barrel picks and raffles",
       "facebook": "https://www.facebook.com/black-bear-wine-spirits-111531250303425"
     },
@@ -1441,7 +1441,7 @@
       ],
       "city": "Milwaukee",
       "website": "https://thecentralstandard.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events",
       "facebook": "https://www.facebook.com/thecentralstandard",
       "instagram": "https://www.instagram.com/thecentralstandard/"
@@ -1556,7 +1556,7 @@
         "WI"
       ],
       "website": "https://oldsugardistillery.com/",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Releases, tastings and distillery events",
       "facebook": "https://www.facebook.com/oldsugar",
       "instagram": "https://www.instagram.com/old_sugar_distillery/"
