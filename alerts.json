@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-27T19:44:20.612Z",
+  "generatedAt": "2026-11-27T21:38:42.682Z",
   "alertCount": 98,
   "verifiedCount": 72,
-  "sourcesChecked": 180,
+  "sourcesChecked": 181,
   "states": [
     "AZ",
     "CA",
@@ -524,20 +524,21 @@
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
     },
     {
-      "id": "8ab0463aff1b",
+      "id": "3047bea4e67d",
       "status": "verified",
       "type": "Bottle Arrival",
-      "title": "Goose Island Bourbon County Brand Proprietor's Upside Down Cake 16.9OZ – back in stock at Liquor Barn",
+      "title": "Three Floyds Dark Lord Whiskey 750ML – new arrival at Liquor Barn",
       "venue": "Liquor Barn",
       "state": "IL",
-      "details": "Back in stock – confirmed in stock on the store's website on Liquor Barn's online shop for $29.99. Stock changes fast – check the store before you go.",
-      "bottleName": "Goose Island Bourbon County Brand Proprietor's Upside Down Cake 16.9OZ",
-      "price": "$29.99",
-      "availability": "Back in stock – confirmed in stock on the store's website",
+      "details": "New arrival – confirmed in stock on the store's website on Liquor Barn's online shop for $74.99. Stock changes fast – check the store before you go.",
+      "bottleName": "Three Floyds Dark Lord Whiskey 750ML",
+      "price": "$74.99",
+      "availability": "New arrival – confirmed in stock on the store's website",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0680/1024/6313/files/ThreeFloydsDarkLordWhiskey750ML.webp?v=1795812257",
       "sourceName": "Liquor Barn online shop",
-      "sourceUrl": "https://theliquorbarn.com/products/goose-island-bourbon-county-brand-proprietors-upside-down-cake-16-9oz",
-      "publishedAt": "2026-11-27T17:38:45.419Z",
-      "firstSeenAt": "2026-11-27T17:38:45.419Z"
+      "sourceUrl": "https://theliquorbarn.com/products/three-floyds-dark-lord-whiskey-750ml",
+      "publishedAt": "2026-11-27T21:38:42.682Z",
+      "firstSeenAt": "2026-11-27T21:38:42.682Z"
     },
     {
       "id": "19bcdb7494ce",
