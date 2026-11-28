@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-28T03:38:41.266Z",
-  "alertCount": 98,
-  "verifiedCount": 72,
-  "sourcesChecked": 181,
+  "generatedAt": "2026-11-28T05:40:09.754Z",
+  "alertCount": 97,
+  "verifiedCount": 70,
+  "sourcesChecked": 180,
   "states": [
     "AZ",
     "CA",
@@ -19,46 +19,13 @@
     "MN",
     "MS",
     "NJ",
+    "OR",
     "TN",
     "TX",
     "WI",
     "WY"
   ],
   "alerts": [
-    {
-      "id": "82d858f13091",
-      "status": "verified",
-      "type": "Tasting",
-      "title": "Tasting Event",
-      "startsAt": "2026-11-27T16:00:00.000Z",
-      "venue": "Company Distilling",
-      "city": "Townsend",
-      "state": "TN",
-      "lat": 35.6763,
-      "lng": -83.753,
-      "details": "Repeats: 3 upcoming dates. Showing the next one. Joins us in Alpharetta, GA at McFarland Fine Wine & Spirits for a free sample of the award-winning whiskey lineup from Company Distilling. McFarland Fine Wine & Spirits 899 McFarland Pkwy Alpharetta, GA",
-      "sourceName": "Company Distilling (Townsend, TN)",
-      "sourceUrl": "https://companydistilling.com/events/tasting-event-8/",
-      "firstSeenAt": "2026-11-25T17:52:17.307Z"
-    },
-    {
-      "id": "fd0c9b096092",
-      "status": "verified",
-      "type": "Barrel Pick",
-      "title": "2026 Goose Island Bourbon County & Thornton Barrel Pick Release Party!",
-      "startsAt": "2026-11-27T17:00:00.000Z",
-      "venue": "The Beer Bazaar",
-      "address": "107 Center Street",
-      "city": "Grayslake",
-      "state": "IL",
-      "zip": "60030",
-      "lat": 42.3351,
-      "lng": -88.0451,
-      "details": "The Biggest Barrel-Aged Beer Event of the Year For craft beer enthusiasts, Black Friday isn’t just about shopping. It’s Bourbon County Day. Join us at The Beer Bazaar for the 2026 Goose Island Bourbon County Release Party and celebrate one of the most anticipated annual releases in the craft beer world. As Grayslake comes alive with the Festival of Lights & Holiday Market, we’ll be pouring some of Goose Island’s…",
-      "sourceName": "Beer Bazaar (Grayslake, IL)",
-      "sourceUrl": "https://thebeerbazaar.com/event/2026-bourbon-county-release-party-grayslake/",
-      "firstSeenAt": "2026-11-25T15:36:35.561Z"
-    },
     {
       "id": "38b52e1bf43b",
       "status": "verified",
@@ -522,6 +489,19 @@
       "sourceName": "Distillery Trail events",
       "sourceUrl": "https://www.distillerytrail.com/events/bourbon-on-the-banks-festival-2027/",
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
+    },
+    {
+      "id": "1cef475666a3",
+      "status": "unconfirmed",
+      "type": "Festival",
+      "title": "Mulled cider with a splash of the namesake whiskey served in an Oregon Writing Festival mug.",
+      "state": "OR",
+      "details": "Mulled cider with a splash of the namesake whiskey served in an Oregon Writing Festival mug.",
+      "imageUrl": "https://cdn.bsky.app/img/feed_thumbnail/plain/did:plc:zhesfjgszyqk7xhelbccddbl/bafkreib4tq2eyegvyottoezwxz7ynfi5zmy3cbn77jkee6wcn4t4lnnq7u",
+      "sourceName": "@pahoehoe.bsky.social on Bluesky",
+      "sourceUrl": "https://bsky.app/profile/pahoehoe.bsky.social/post/3n3dxcdoees2a",
+      "publishedAt": "2026-11-28T05:19:02.772Z",
+      "firstSeenAt": "2026-11-28T05:40:09.754Z"
     },
     {
       "id": "deb3ff5f7deb",
