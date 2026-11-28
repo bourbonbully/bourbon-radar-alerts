@@ -4,7 +4,7 @@ This repository holds the public alert data used by the **Bourbon Bully – Bour
 plus the published web version of the app in `app/` (open it at https://bourbonbully.github.io/bourbon-radar-alerts/app/).
 It is updated automatically. The app's source code is kept private.
 
-- Last updated: 2026-11-28T02:01:37.237Z
+- Last updated: 2026-11-28T03:38:41.266Z
 - Alerts: 98 (72 verified)
 
 **Verified** = listed on the venue or organizer’s own official calendar with a date and place.
