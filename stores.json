@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-28T09:36:03.215Z",
-  "count": 635,
+  "generatedAt": "2026-11-28T11:33:25.870Z",
+  "count": 680,
   "places": [
     {
       "name": "Amalga Distillery (Juneau, AK)",
@@ -54,7 +54,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "active",
+      "monitoring": "blocked",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -331,6 +331,18 @@
       "instagram": "https://www.instagram.com/ludwigsfinewine/"
     },
     {
+      "name": "Mercury Wine Bar (CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "website": "https://mercurywine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/mercurywine",
+      "instagram": "https://www.instagram.com/mercurywine/"
+    },
+    {
       "name": "Migration Winery (Napa, CA)",
       "category": "store",
       "states": [
@@ -381,6 +393,19 @@
       "instagram": "https://www.instagram.com/riverbench/"
     },
     {
+      "name": "Samsara Wine Co. (Goleta, CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Goleta",
+      "website": "https://samsarawine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/samsarawineco",
+      "instagram": "https://www.instagram.com/samsarawineco/"
+    },
+    {
       "name": "Silverlake Wine online shop (Los Angeles, CA)",
       "category": "store",
       "states": [
@@ -393,6 +418,19 @@
       "instagram": "https://www.instagram.com/silverlakewine/"
     },
     {
+      "name": "Sports Arena Liquor online shop (San Diego, CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "San Diego",
+      "website": "https://sportsarenaliquor.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "instagram": "https://www.instagram.com/sportsarenaliquorsd/",
+      "facebook": "https://www.facebook.com/61583212412850"
+    },
+    {
       "name": "The Village Store online shop (San Diego, CA)",
       "category": "store",
       "states": [
@@ -402,6 +440,19 @@
       "website": "https://vsliquor.com/",
       "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
+    },
+    {
+      "name": "Thumbprint Cellar (Healdsburg, CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Healdsburg",
+      "website": "https://thumbprintcellars.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/thumbprintcellars",
+      "instagram": "https://www.instagram.com/thumbprintcellars/"
     },
     {
       "name": "True Sake online shop (CA)",
@@ -426,6 +477,18 @@
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
+      "name": "VerveWine online shop (CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "website": "https://vervewine.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/vervewine",
+      "instagram": "https://www.instagram.com/vervewine/"
+    },
+    {
       "name": "Vintage Wine Merchants (San Jose, CA)",
       "category": "store",
       "states": [
@@ -437,6 +500,32 @@
       "watches": "Events, tastings, barrel picks and raffles",
       "facebook": "https://www.facebook.com/vintagewinemerchants",
       "instagram": "https://www.instagram.com/vintagewinesr/"
+    },
+    {
+      "name": "Vintage Wines Ltd online shop (San Diego, CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "San Diego",
+      "website": "https://vintagewinessd.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/vintagewinessd",
+      "instagram": "https://www.instagram.com/vintagewinesltd/"
+    },
+    {
+      "name": "vom Fass online shop (Ventura, CA)",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Ventura",
+      "website": "https://vomfasscoronado.com/",
+      "monitoring": "active",
+      "watches": "Events, tastings, barrel picks and raffles",
+      "facebook": "https://www.facebook.com/vomfasscoronado",
+      "instagram": "https://www.instagram.com/vomfasscoronado/"
     },
     {
       "name": "Wine on Piedmont online shop (CA)",
@@ -1045,7 +1134,7 @@
       ],
       "city": "Minneapolis",
       "website": "https://zippsliquors.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -1202,18 +1291,6 @@
       "instagram": "https://www.instagram.com/billspackagestore/"
     },
     {
-      "name": "Black Bear Wine & Spirits (Mountain City, TN)",
-      "category": "store",
-      "states": [
-        "TN"
-      ],
-      "city": "Mountain City",
-      "website": "https://blackbearwineandspiritstn.com/",
-      "monitoring": "blocked",
-      "watches": "Events, tastings, barrel picks and raffles",
-      "facebook": "https://www.facebook.com/black-bear-wine-spirits-111531250303425"
-    },
-    {
       "name": "Chattanooga Whiskey (Chattanooga, TN)",
       "category": "store",
       "states": [
@@ -1349,7 +1426,9 @@
       "city": "Little River",
       "website": "https://wilsonvalley.com/",
       "monitoring": "active",
-      "watches": "Releases, tastings and distillery events"
+      "watches": "Releases, tastings and distillery events",
+      "facebook": "https://www.facebook.com/wilsonvalleymercantile",
+      "instagram": "https://www.instagram.com/wilsonvalleymercantile/"
     },
     {
       "name": "Utah DABS news (special barrel selections)",
@@ -3944,6 +4023,18 @@
       "instagram": "https://www.instagram.com/liquorvaultknox/"
     },
     {
+      "name": "Black Bear Wine & Spirits",
+      "category": "store",
+      "states": [
+        "TN"
+      ],
+      "city": "Mountain City",
+      "website": "https://blackbearwineandspiritstn.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/black-bear-wine-spirits-111531250303425"
+    },
+    {
       "name": "Joe's Wines & Liquor",
       "category": "store",
       "states": [
@@ -5367,7 +5458,8 @@
       "website": "https://www.nectarofthedogswine.com",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "facebook": "https://www.facebook.com/nectarofthedogswine"
+      "facebook": "https://www.facebook.com/nectarofthedogswine",
+      "instagram": "https://www.instagram.com/nectarofthedogswine/"
     },
     {
       "name": "Sips",
@@ -5406,18 +5498,6 @@
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
       "facebook": "https://www.facebook.com/griffodistillery",
       "instagram": "https://www.instagram.com/griffodistillery/"
-    },
-    {
-      "name": "Sports Arena Liquor",
-      "category": "store",
-      "states": [
-        "CA"
-      ],
-      "city": "San Diego",
-      "website": "https://sportsarenaliquor.com/",
-      "monitoring": "off",
-      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "instagram": "https://www.instagram.com/sportsarenaliquor_/"
     },
     {
       "name": "Vino Divino",
@@ -5477,7 +5557,8 @@
       "website": "https://ramirezliquor.com/",
       "monitoring": "off",
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
-      "facebook": "https://www.facebook.com/246893055502396"
+      "facebook": "https://www.facebook.com/ramirezbeveragecenter",
+      "instagram": "https://www.instagram.com/ramirezbeveragecenter/"
     },
     {
       "name": "Wine Stop SVLK",
@@ -7694,6 +7775,479 @@
       "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
       "facebook": "https://www.facebook.com/svliquors",
       "instagram": "https://www.instagram.com/sv.liquors/"
+    },
+    {
+      "name": "Joe's Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Somerville",
+      "website": "https://www.facebook.com/joesliquorsomerville",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/joesliquorsomerville"
+    },
+    {
+      "name": "Beacon Hill Wine & Spirits",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Boston",
+      "website": "https://www.beaconhillwine.com/beacon-hill",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/beaconhillwine/"
+    },
+    {
+      "name": "Square Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Reading",
+      "website": "https://www.facebook.com/squareliquors",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/squareliquors"
+    },
+    {
+      "name": "Lower Falls Wine Co.",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Newton",
+      "website": "https://lowerfallswine.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/lowerfallswine/"
+    },
+    {
+      "name": "North Station Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Boston",
+      "website": "https://nsliquors.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/nsliquors",
+      "instagram": "https://www.instagram.com/northstationliquors/"
+    },
+    {
+      "name": "Mayhew Wine Shop",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Boston",
+      "website": "https://mayhewwine.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/mayhewwineshop",
+      "instagram": "https://www.instagram.com/mayhewwine/"
+    },
+    {
+      "name": "Country Crossroads",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Belchertown",
+      "website": "https://www.countryxroads.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/countrycrossroadswineoutlet/"
+    },
+    {
+      "name": "Sav-Mor Spirits",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Malden",
+      "website": "https://www.facebook.com/savmorspirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/savmorspirits",
+      "instagram": "https://www.instagram.com/savmorspirits/"
+    },
+    {
+      "name": "Vinodivino",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Needham",
+      "website": "https://vinodivino.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/vdvneedham"
+    },
+    {
+      "name": "Georgios Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Waltham",
+      "website": "https://waltham.georgiosliquors.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/georgiosliquorswaltham",
+      "instagram": "https://www.instagram.com/georgiosliquors/"
+    },
+    {
+      "name": "Four Seasons Wine & Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Longmeadow",
+      "website": "https://www.instagram.com/fourseasonswineandliquors/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/fourseasonswineandliquors/"
+    },
+    {
+      "name": "Gridiron Liquors",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "website": "https://www.facebook.com/gridironliquors",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/gridironliquors"
+    },
+    {
+      "name": "Short Path Distillery",
+      "category": "distillery",
+      "states": [
+        "MA"
+      ],
+      "city": "Everett",
+      "website": "https://shortpathdistillery.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/shortpathdistillery",
+      "instagram": "https://www.instagram.com/shortpathdistillery/"
+    },
+    {
+      "name": "Randolph Marketplace",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "website": "http://rmpliquors.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/randolphmarketplace/"
+    },
+    {
+      "name": "Barrel & Vine",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "website": "https://barrelandvinewine.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/barrelandvinema",
+      "instagram": "https://www.instagram.com/barrelandvinema/"
+    },
+    {
+      "name": "MB Spirits",
+      "category": "store",
+      "states": [
+        "MA"
+      ],
+      "city": "Shrewsbury",
+      "website": "https://www.instagram.com/mbspirits/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/mbspirits/"
+    },
+    {
+      "name": "Hall Avenue Liquor Store",
+      "category": "store",
+      "states": [
+        "MS"
+      ],
+      "city": "Hattiesburg",
+      "website": "https://www.facebook.com/hall-avenue-package-store-209204696294289",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/hall-avenue-package-store-209204696294289"
+    },
+    {
+      "name": "Ruby Liqour",
+      "category": "store",
+      "states": [
+        "MS"
+      ],
+      "city": "Starkville",
+      "website": "https://www.facebook.com/rubyliquorr",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/rubyliquorr"
+    },
+    {
+      "name": "Eupora Wine & Spirits",
+      "category": "store",
+      "states": [
+        "MS"
+      ],
+      "city": "Eupora",
+      "website": "https://www.facebook.com/euporawineandspirits",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/euporawineandspirits",
+      "instagram": "https://www.instagram.com/euporaspirits/"
+    },
+    {
+      "name": "Lincoln Road Package Store",
+      "category": "store",
+      "states": [
+        "MS"
+      ],
+      "city": "Hattiesburg",
+      "website": "https://www.facebook.com/132145241400",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/132145241400"
+    },
+    {
+      "name": "Loop Liquor & Convenience Store",
+      "category": "store",
+      "states": [
+        "MO"
+      ],
+      "city": "Columbia",
+      "website": "https://www.facebook.com/loop.vj",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/loop.vj"
+    },
+    {
+      "name": "Good Times Liquor and Bait",
+      "category": "store",
+      "states": [
+        "MO"
+      ],
+      "website": "https://good-times-liquor-bait.hub.biz/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/goodtimesliquors"
+    },
+    {
+      "name": "Big Al's Liquor & Wine",
+      "category": "store",
+      "states": [
+        "MO"
+      ],
+      "city": "Belton",
+      "website": "https://m.facebook.com/pages/big-als-liquor-wine/108612405895456",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/352734301265004"
+    },
+    {
+      "name": "M-T Glass Liquor",
+      "category": "store",
+      "states": [
+        "MT"
+      ],
+      "city": "Helena",
+      "website": "https://mtglassliquor.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/100028195496487"
+    },
+    {
+      "name": "Headframe Spirits",
+      "category": "store",
+      "states": [
+        "MT"
+      ],
+      "website": "https://www.headframespirits.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/headframespirits",
+      "instagram": "https://www.instagram.com/headframespirits/"
+    },
+    {
+      "name": "The Hideout Casino and Liquor Store",
+      "category": "store",
+      "states": [
+        "MT"
+      ],
+      "website": "https://www.facebook.com/hideoutcasino",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/hideoutcasino"
+    },
+    {
+      "name": "Ick's Place",
+      "category": "store",
+      "states": [
+        "MT"
+      ],
+      "city": "Browning",
+      "website": "https://www.facebook.com/164565613605610",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/164565613605610"
+    },
+    {
+      "name": "Meier's Cork 'n Bottle",
+      "category": "store",
+      "states": [
+        "NE"
+      ],
+      "city": "Lincoln",
+      "website": "https://www.facebook.com/143911420052",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/143911420052"
+    },
+    {
+      "name": "The Beer Studio",
+      "category": "store",
+      "states": [
+        "NV"
+      ],
+      "city": "Carson City",
+      "website": "https://www.instagram.com/thebeerstudiocc/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/thebeerstudiocc/"
+    },
+    {
+      "name": "Liquor Loft",
+      "category": "store",
+      "states": [
+        "NV"
+      ],
+      "website": "https://www.liquorloftlv.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/liquorloftlv/"
+    },
+    {
+      "name": "Don's & Ben's Liquor",
+      "category": "store",
+      "states": [
+        "TX"
+      ],
+      "website": "https://donsandbens.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/donsandbens",
+      "instagram": "https://www.instagram.com/donsandbens/"
+    },
+    {
+      "name": "JK Liquor",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Fresno",
+      "website": "https://fresnoliquorstore.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/saveonliquorcigarworld",
+      "instagram": "https://www.instagram.com/saveonliquorcigarworld/"
+    },
+    {
+      "name": "Vintage Reserve Wine",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Fresno",
+      "website": "https://vintagereserve.biz/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/vintagereservewine/"
+    },
+    {
+      "name": "Ancora Vino",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "San Jose",
+      "website": "https://san-jose.enotecalastoria.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/_ancoravino_/"
+    },
+    {
+      "name": "Mile Limit",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Berkeley",
+      "website": "https://milelimitberkeley.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/milelimit",
+      "instagram": "https://www.instagram.com/milelimit/"
+    },
+    {
+      "name": "Loubud Wines",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Santa Barbara",
+      "website": "https://loubudwines.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/loubudwines",
+      "instagram": "https://www.instagram.com/loubudwines/"
+    },
+    {
+      "name": "Longoria Wines",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "Santa Barbara",
+      "website": "https://longoriawines.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/longoriawines",
+      "instagram": "https://www.instagram.com/longoriawines/"
+    },
+    {
+      "name": "Domaine SF",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "city": "San Francisco",
+      "website": "https://domainesf.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "instagram": "https://www.instagram.com/domainesf/"
+    },
+    {
+      "name": "Regusci Downtown",
+      "category": "store",
+      "states": [
+        "CA"
+      ],
+      "website": "https://regusciwinery.com/",
+      "monitoring": "off",
+      "watches": "Social media posts: arrivals, drops, raffles, barrel picks and events",
+      "facebook": "https://www.facebook.com/regusciwinery",
+      "instagram": "https://www.instagram.com/regusciwinery/"
     }
   ]
 }
