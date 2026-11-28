@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-28T11:56:30.024Z",
-  "alertCount": 98,
-  "verifiedCount": 72,
-  "sourcesChecked": 195,
+  "generatedAt": "2026-11-28T13:49:56.257Z",
+  "alertCount": 97,
+  "verifiedCount": 71,
+  "sourcesChecked": 194,
   "states": [
     "AZ",
     "CA",
@@ -27,22 +27,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "b1d0a843b771",
-      "status": "verified",
-      "type": "Distillery Release",
-      "title": "Ledgerock Distillery Black Friday Release Party",
-      "startsAt": "2026-11-28T00:00:00.000Z",
-      "venue": "Fond du Lac Beer Company",
-      "city": "Fond du Lac",
-      "state": "WI",
-      "lat": 43.7722,
-      "lng": -88.4403,
-      "details": "Fri Nov 27, 6–7 PM, hosted by Ledgerock Distillery at Fond du Lac Beer Company.",
-      "sourceName": "Ledgerock Distillery",
-      "sourceUrl": "https://www.ledgerockdistillery.com/",
-      "firstSeenAt": "2026-11-24T12:00:00.000Z"
-    },
     {
       "id": "a0019d99152d",
       "status": "unconfirmed",
