@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-28T11:33:25.870Z",
-  "alertCount": 96,
-  "verifiedCount": 69,
-  "sourcesChecked": 187,
+  "generatedAt": "2026-11-28T11:56:30.024Z",
+  "alertCount": 98,
+  "verifiedCount": 72,
+  "sourcesChecked": 195,
   "states": [
     "AZ",
     "CA",
@@ -22,6 +22,7 @@
     "OR",
     "TN",
     "TX",
+    "VA",
     "WI",
     "WY"
   ],
@@ -41,6 +42,24 @@
       "sourceName": "Ledgerock Distillery",
       "sourceUrl": "https://www.ledgerockdistillery.com/",
       "firstSeenAt": "2026-11-24T12:00:00.000Z"
+    },
+    {
+      "id": "a0019d99152d",
+      "status": "unconfirmed",
+      "type": "Tasting",
+      "title": "Up on The Rooftop at Copper & Kings",
+      "startsAt": "2026-11-28T05:00:00.000Z",
+      "venue": "Copper & Kings Distillery",
+      "address": "1121 East Washington St",
+      "city": "Louisville",
+      "state": "KY",
+      "zip": "40206",
+      "lat": 38.2567,
+      "lng": -85.7023,
+      "details": "Repeats: 11 upcoming dates. Showing the next one. holiday pop-up bar experience. Dust off your ugliest sweater and your best behavior (or don’t, we won’t tell Santa). Starting November 5th, The Rooftop trades its sunglasses for sleigh bells and gets a full-on vintage Christmas glow-up! Tinsel with a past, twinkling lights that remember the good old days, and the kind of retro holiday charm your grandmother’s living room only dreamed of. Sip on festive cocktails…",
+      "sourceName": "Things to Lou – Bourbon events",
+      "sourceUrl": "https://things-to-lou.com/events/up-on-the-rooftop-at-copper-kings-holiday-pop-up-bar-experience/2026-11-28/",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
     },
     {
       "id": "df52daf3a249",
@@ -212,6 +231,22 @@
       "sourceName": "WhiskyCast Events Calendar",
       "sourceUrl": "https://whiskycast.com/calendar-of-events/stave-thief-society-executive-bourbon-steward-workshop/",
       "firstSeenAt": "2026-11-24T16:19:51.825Z"
+    },
+    {
+      "id": "50fca3b82c2e",
+      "status": "verified",
+      "type": "Tasting",
+      "title": "Tasting Event",
+      "startsAt": "2026-12-04T16:00:00.000Z",
+      "venue": "Company Distilling",
+      "city": "Townsend",
+      "state": "TN",
+      "lat": 35.6763,
+      "lng": -83.753,
+      "details": "Repeats: 2 upcoming dates. Showing the next one. Join us in Alcoa, TN at City Farms Wine & Spirits from 4-7pm for and let Jeff Arnett sign your bottle of Company whiskey. City Farms Wine & Spirits 157 Calderwood St Alcoa, TN",
+      "sourceName": "Company Distilling (Townsend, TN)",
+      "sourceUrl": "https://companydistilling.com/events/tasting-event-alcoa-tn/",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
     },
     {
       "id": "2c5c7dc17f54",
@@ -473,6 +508,43 @@
       "firstSeenAt": "2026-11-24T16:33:14.739Z"
     },
     {
+      "id": "4530379b2d6c",
+      "status": "verified",
+      "type": "Bottle Arrival",
+      "title": "Penelope Madagascar Cooper Series Bourbon Whiskey (750mL) – new arrival at Keg N Bottle",
+      "venue": "Keg N Bottle",
+      "city": "San Diego",
+      "state": "CA",
+      "lat": 32.8304,
+      "lng": -117.1209,
+      "details": "New arrival – confirmed in stock on the store's website on Keg N Bottle's online shop for $89.99. Stock changes fast – check the store before you go.",
+      "bottleName": "Penelope Madagascar Cooper Series Bourbon Whiskey (750mL)",
+      "price": "$89.99",
+      "availability": "New arrival – confirmed in stock on the store's website",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0045/4967/3089/files/Photoroom_20261118_021808.webp?v=1795832348",
+      "sourceName": "Keg N Bottle online shop",
+      "sourceUrl": "https://kegnbottle.com/products/penelope-madagascar-cooper-series-bourbon-whiskey-750ml",
+      "publishedAt": "2026-11-28T11:56:30.024Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
+    },
+    {
+      "id": "dd63342d952d",
+      "status": "verified",
+      "type": "Bottle Arrival",
+      "title": "Donna Fugata Ben Rye Passito di Panitelleria 2023 – back in stock at Wine on Piedmont",
+      "venue": "Wine on Piedmont",
+      "state": "CA",
+      "details": "Back in stock – confirmed in stock on the store's website on Wine on Piedmont's online shop for $63.00. Stock changes fast – check the store before you go.",
+      "bottleName": "Donna Fugata Ben Rye Passito di Panitelleria 2023",
+      "price": "$63.00",
+      "availability": "Back in stock – confirmed in stock on the store's website",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0955/1314/9754/files/kj8jafyprfpuuhigslqn.png?v=1754979743",
+      "sourceName": "Wine on Piedmont online shop",
+      "sourceUrl": "https://wineonpiedmont.com/products/donnafugata-ben-rye-22",
+      "publishedAt": "2026-11-28T11:56:30.024Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
+    },
+    {
       "id": "deb3ff5f7deb",
       "status": "unconfirmed",
       "type": "Raffle",
@@ -529,6 +601,29 @@
       "sourceUrl": "https://waterfordwine.com/products/dancing-goat-11-year-chocolate-bitters-finished-limousin-rye-waterford-pick",
       "publishedAt": "2026-11-27T17:38:45.419Z",
       "firstSeenAt": "2026-11-27T17:38:45.419Z"
+    },
+    {
+      "id": "529761393691",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Wemyss Malts Launches Blending Workshop at Kingsbarns Distillery",
+      "details": "Could you blend a Scotch to rival the experts? Wemyss Malts' new £60 Kingsbarns workshop lets you craft your own, then compare it with their core range. Read the full article at Wemyss Malts Launches Blending Workshop at Kingsbarns Distillery",
+      "sourceName": "The Whiskey Wash",
+      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/wemyss-malts-launches-blending-workshop-at-kingsbarns-distillery/",
+      "publishedAt": "2026-11-27T14:48:17.000Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
+    },
+    {
+      "id": "d50e8c4f70eb",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Wyoming Whiskey is launching its first annual holiday release",
+      "state": "WY",
+      "details": "If you’ve never tried Wyoming Whiskey (what are you waiting for?), now is the perfect time. That’s because this award-winning, Wyoming-based distillery, founded in 2006 by Brad and Kate Mead along ...",
+      "sourceName": "Bing News search: Wyoming bourbon raffles, lotteries, drops, picks & festivals",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac191f4fb43c9baa445edf5b80c54&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fwyoming-whiskey-launching-first-annual-220000260.html&c=7072906388459612502&mkt=en-us",
+      "publishedAt": "2026-11-27T14:00:00.000Z",
+      "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
     {
       "id": "f7e7e9cd50f1",
@@ -800,6 +895,18 @@
       "firstSeenAt": "2026-11-27T12:06:34.071Z"
     },
     {
+      "id": "b5691b020eee",
+      "status": "unconfirmed",
+      "type": "Tasting",
+      "title": "Ditch Eagle Rare 10 Year For This Bold-Tasting Virginia Bourbon With A Delectably Warm Finish",
+      "state": "VA",
+      "details": "If you are looking for a bold tasting yet warm finish in an aged whiskey try this brand instead of tracking down Eagle rare 10 year bourbon.",
+      "sourceName": "Bing News search: Virginia bourbon raffles, lotteries, drops, picks & festivals",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac1917b6f4003b8dc7b8a55dfaa58&url=https%3a%2f%2fwww.yahoo.com%2flifestyle%2farticles%2fditch-eagle-rare-10-bold-120000387.html&c=5078010287300798311&mkt=en-us",
+      "publishedAt": "2026-11-27T04:01:00.000Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
+    },
+    {
       "id": "91c94ca4a82a",
       "status": "unconfirmed",
       "type": "Allocated Drop",
@@ -812,6 +919,17 @@
       "sourceUrl": "https://bsky.app/profile/vagabonding.bsky.social/post/3n3aaaifvvs2t",
       "publishedAt": "2026-11-26T17:48:25.434Z",
       "firstSeenAt": "2026-11-26T19:49:03.612Z"
+    },
+    {
+      "id": "a7bb2e0bb1c9",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "The Oxford Artisan Distillery Launches Cask Programme Ahead of Oxford Return",
+      "details": "Could you own a piece of Oxford whisky history? TOAD is offering the first casks of Riverman Rye distilled when it returns to its Cheney Farm home in 2028. Read the full article at The Oxford Artisan Distillery Launches Cask Programme Ahead of Oxford Return",
+      "sourceName": "The Whiskey Wash",
+      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/the-oxford-artisan-distillery-launches-cask-programme-ahead-of-oxford-return/",
+      "publishedAt": "2026-11-26T16:11:23.000Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
     },
     {
       "id": "ed2cd1bd20b2",
@@ -827,7 +945,7 @@
       "bottleName": "Stranahan's Mountain Angel 12 Year Colorado Single Malt Whiskey (750mL)",
       "price": "$89.99",
       "availability": "New arrival – confirmed in stock on the store's website",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0045/4967/3089/files/stranahans-mountain-angel-12-year-colorado-single-malt-whiskey-750ml-keg-n-bottle-2263847.webp?v=1795722906",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0045/4967/3089/files/stranahans-mountain-angel-12-year-colorado-single-malt-whiskey-750ml-keg-n-bottle-1746752.png?v=1795809247",
       "sourceName": "Keg N Bottle online shop",
       "sourceUrl": "https://kegnbottle.com/products/stranahans-mountain-angel-12-year-colorado-single-malt-whiskey-750ml",
       "publishedAt": "2026-11-26T12:10:53.766Z",
@@ -847,7 +965,7 @@
       "bottleName": "Yamazaki Refill Spanish Oak 2026 Single Malt Japanese Whisky (700mL)",
       "price": "$1199.99",
       "availability": "New arrival – confirmed in stock on the store's website",
-      "imageUrl": "https://cdn.shopify.com/s/files/1/0045/4967/3089/files/yamazaki-refill-spanish-oak-2026-single-malt-japanese-whisky-700ml-keg-n-bottle-4920783.webp?v=1795722906",
+      "imageUrl": "https://cdn.shopify.com/s/files/1/0045/4967/3089/files/yamazaki-refill-spanish-oak-2026-single-malt-japanese-whisky-700ml-keg-n-bottle-3263582.png?v=1795809247",
       "sourceName": "Keg N Bottle online shop",
       "sourceUrl": "https://kegnbottle.com/products/yamazaki-refill-spanish-oak-2026-single-malt-japanese-whisky-700ml",
       "publishedAt": "2026-11-26T12:10:53.766Z",
@@ -1478,39 +1596,6 @@
       "firstSeenAt": "2026-11-25T16:44:08.196Z"
     },
     {
-      "id": "627546405c65",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Benromach Unveils 23 Year Old Single Malt for Lunar New Year",
-      "details": "What does 23 years in first-fill Bourbon and Sherry casks bring to a Speyside single malt? Benromach's Year of the Fire Goat release offers tangerine, raisin and spice. Read the full article at Benromach Unveils 23 Year Old Single Malt for Lunar New Year",
-      "sourceName": "The Whiskey Wash",
-      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/benromach-unveils-23-year-old-single-malt-for-lunar-new-year/",
-      "publishedAt": "2026-11-25T14:49:36.000Z",
-      "firstSeenAt": "2026-11-25T17:52:17.307Z"
-    },
-    {
-      "id": "29a3fd2d59e1",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Brora Unveils Oldest-Ever Single Malt at 54 Years Old",
-      "details": "What makes a 50-year-old Brora worth £19,500? Discover the heavily peated 1972 vintage behind the distillery's oldest-ever release, limited to just 120 bottles. Read the full article at Brora Unveils Oldest-Ever Single Malt at 54 Years Old",
-      "sourceName": "The Whiskey Wash",
-      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/brora-unveils-oldest-ever-single-malt-at-54-years-old/",
-      "publishedAt": "2026-11-25T13:29:00.000Z",
-      "firstSeenAt": "2026-11-26T12:10:53.766Z"
-    },
-    {
-      "id": "e5d4cfbf69cc",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "The Glenrothes Launches First Private Bottling Programme",
-      "details": "What if your whisky could tell your story? The Glenrothes opens its archive for the first time, crafting bespoke bottlings around your palate and memories. Read the full article at The Glenrothes Launches First Private Bottling Programme",
-      "sourceName": "The Whiskey Wash",
-      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/the-glenrothes-launches-first-private-bottling-programme/",
-      "publishedAt": "2026-11-25T12:43:44.000Z",
-      "firstSeenAt": "2026-11-25T17:07:10.710Z"
-    },
-    {
       "id": "43b2190dc8f8",
       "status": "unconfirmed",
       "type": "Distillery Release",
@@ -1518,20 +1603,9 @@
       "state": "TN",
       "details": "Columbia Creek Tennessee Whiskey Releases New Barrel Strength Expression ...",
       "sourceName": "Bing News search: Tennessee bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09726f8d2e443a92c4333d058174a4&url=https%3a%2f%2fwww.fredminnick.com%2f2026%2f11%2f25%2fcolumbia-creek-tennessee-whiskey-releases-new-barrel-strength-expression%2f&c=11380239293010927968&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac191bed44408863aba7288cb5d30&url=https%3a%2f%2fwww.fredminnick.com%2f2026%2f11%2f25%2fcolumbia-creek-tennessee-whiskey-releases-new-barrel-strength-expression%2f&c=11380239293010927968&mkt=en-us",
       "publishedAt": "2026-11-25T11:00:00.000Z",
       "firstSeenAt": "2026-11-27T12:06:34.071Z"
-    },
-    {
-      "id": "1bcd06773377",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Knob Creek Launches Trailmaster Edition: 9-Year Bourbon in Camo",
-      "details": "What makes Knob Creek Trailmaster Edition stand out? Discover the camo-clad bourbon’s proof, price and limited US availability. Read the full article at Knob Creek Launches Trailmaster Edition: 9-Year Bourbon in Camo",
-      "sourceName": "The Whiskey Wash",
-      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/knob-creek-launches-trailmaster-edition-9-year-bourbon-in-camo/",
-      "publishedAt": "2026-11-25T10:26:11.000Z",
-      "firstSeenAt": "2026-11-25T17:07:10.710Z"
     },
     {
       "id": "5c890b8d8e8c",
@@ -1545,17 +1619,6 @@
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
     },
     {
-      "id": "76a4018f0e08",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Milam & Greene Port Finished Rye: Holiday 2026 Release",
-      "details": "What makes Milam & Greene’s Holiday 2026 rye so rare? Discover the extended Port finish behind its 468-bottle cask-strength release. Read the full article at Milam & Greene Port Finished Rye: Holiday 2026 Release",
-      "sourceName": "The Whiskey Wash",
-      "sourceUrl": "https://thewhiskeywash.com/whiskey-news/milam-greene-port-finished-rye-holiday-2026-release/",
-      "publishedAt": "2026-11-24T14:24:52.000Z",
-      "firstSeenAt": "2026-11-24T17:06:16.779Z"
-    },
-    {
       "id": "daa2f9d3c5e1",
       "status": "unconfirmed",
       "type": "Raffle",
@@ -1563,9 +1626,21 @@
       "state": "CO",
       "details": "The lottery gives bourbon lovers, or enthusiasts, a chance to purchase a 10 year old or older bottle of Pappy Van Winkle Bourbon.",
       "sourceName": "Bing News search: bourbon lottery allocated bottles",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0972634f544dc0ae3a1d13d61a77b2&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac1871db047f6981300a0d6988d5b&url=https%3a%2f%2fwww.whas11.com%2farticle%2fnews%2flocal%2fkrogers-pappy-van-winkle-bourbon-lottery-returns-black-friday-kroger-wine-and-spirits%2f417-a148d214-72c4-4dfc-9955-e257700454a8&c=4429520906280518693&mkt=en-us",
       "publishedAt": "2026-11-22T08:06:00.000Z",
       "firstSeenAt": "2026-11-24T20:56:40.718Z"
+    },
+    {
+      "id": "080dec890c42",
+      "status": "unconfirmed",
+      "type": "Distillery Release",
+      "title": "Blue Run Spirits is launching a limited-edition bourbon to celebrate Texas",
+      "state": "TX",
+      "details": "They say the “stars at night are big and bright” deep in the heart of Texas. Whether you’re sitting somewhere now where you can see those stars or not, as long as you have love for the Lone Star State ...",
+      "sourceName": "Bing News search: Texas bourbon raffles, lotteries, drops, picks & festivals",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac191c4f14f2d859f676a1ab65339&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fblue-run-spirits-launching-limited-220000536.html&c=10807779769355632072&mkt=en-us",
+      "publishedAt": "2026-11-20T14:01:00.000Z",
+      "firstSeenAt": "2026-11-28T11:56:30.024Z"
     },
     {
       "id": "14a9cd322713",
@@ -1591,20 +1666,8 @@
       "state": "MS",
       "details": "Cathead Distillery isn’t in Kentucky. It isn’t in Indiana, Tennessee, or even California. It’s actually Mississippi’s first and oldest legal distillery. Founded in 2010 by friends Austin Evans and ...",
       "sourceName": "Bing News search: Mississippi bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b09726c653d4ceb8e5fd934a4b851ab&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fcathead-distillery-releasing-whiskey-collection-200000164.html&c=4438161405652876576&mkt=en-us",
+      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b0ac18d9639497eae3e1949af238d7f&url=https%3a%2f%2fshopping.yahoo.com%2fgeneral%2farticles%2fcathead-distillery-releasing-whiskey-collection-200000164.html&c=4438161405652876576&mkt=en-us",
       "publishedAt": "2026-11-19T12:01:00.000Z",
-      "firstSeenAt": "2026-11-25T18:43:55.670Z"
-    },
-    {
-      "id": "8af560216bf8",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Wyoming Whiskey Launches New Holiday Series with Saddle Up Santa",
-      "state": "WY",
-      "details": "Wyoming Whiskey announced the release of Saddle Up Santa, the first in an annual series of holiday releases from the Kirby, Wyoming distillery.",
-      "sourceName": "Bing News search: Wyoming bourbon raffles, lotteries, drops, picks & festivals",
-      "sourceUrl": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6b097271ea2a4021bebe499a858effdc&url=https%3a%2f%2fwww.fredminnick.com%2f2026%2f11%2f19%2fwyoming-whiskey-launches-new-holiday-series-with-saddle-up-santa%2f&c=14291405714682388002&mkt=en-us",
-      "publishedAt": "2026-11-19T10:59:00.000Z",
       "firstSeenAt": "2026-11-25T18:43:55.670Z"
     },
     {
@@ -1653,19 +1716,6 @@
       "sourceName": "Iron Fish Distillery (Thompsonville, MI)",
       "sourceUrl": "https://ironfishdistillery.com/iron-fish-distillery-debuts-new-riverbed-whiskey-continuing-its-commitment-to-michigan-rivers/",
       "publishedAt": "2026-11-03T12:04:13.000Z",
-      "firstSeenAt": "2026-11-25T12:13:14.515Z"
-    },
-    {
-      "id": "52cd33820f9e",
-      "status": "unconfirmed",
-      "type": "Distillery Release",
-      "title": "Heaven Hill Distillery Announces Heaven Hill Phoenix, a Limited-Edition Bourbon Commemorating Three Decades of Resilience",
-      "venue": "Heaven Hill Distilleries",
-      "state": "KY",
-      "details": "Marrying 18-year-old bourbon with 30-year-old liquid distilled before the flames, this one-time release creates a remarkable connection between Heaven Hill’s past and present BARDSTOWN, Ky. (October 27, 2026) — Thirty years after the 1996 fire at Old Heaven Hill Springs Distillery, Heaven Hill Distillery today introduced Heaven Hill Phoenix, a limited-edition, one-time 18-year-old Kentucky Straight […] The post…",
-      "sourceName": "Heaven Hill Distilleries (KY)",
-      "sourceUrl": "https://heavenhill.com/news-and-notes/heaven-hill-distillery-announces-heaven-hill-phoenix-a-limited-edition-bourbon-commemorating-three-decades-of-resilience/",
-      "publishedAt": "2026-10-28T19:42:44.000Z",
       "firstSeenAt": "2026-11-25T12:13:14.515Z"
     }
   ]

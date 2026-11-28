@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-28T11:33:25.870Z",
+  "generatedAt": "2026-11-28T11:56:30.024Z",
   "count": 680,
   "places": [
     {
@@ -54,7 +54,7 @@
         "AL"
       ],
       "website": "https://alabcboard.gov/node/47507891",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Rare-bottle lotteries and allocated releases"
     },
     {
@@ -103,7 +103,7 @@
       ],
       "city": "Phoenix",
       "website": "https://hiddentrackbottleshop.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles"
     },
     {
@@ -545,7 +545,7 @@
       ],
       "city": "Swisher",
       "website": "https://www.crwine.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -739,7 +739,7 @@
       ],
       "city": "Oak Lawn",
       "website": "https://kenwoodliquors.biz/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Events, tastings, barrel picks and raffles",
       "facebook": "https://www.facebook.com/kenwoodliquors",
       "instagram": "https://www.instagram.com/kenwoodliquors/"
@@ -1032,7 +1032,7 @@
       ],
       "city": "Detroit",
       "website": "https://www.twojames.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events"
     },
     {
@@ -1520,7 +1520,7 @@
       ],
       "city": "Milwaukee",
       "website": "https://thecentralstandard.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events",
       "facebook": "https://www.facebook.com/thecentralstandard",
       "instagram": "https://www.instagram.com/thecentralstandard/"
@@ -1635,7 +1635,7 @@
         "WI"
       ],
       "website": "https://oldsugardistillery.com/",
-      "monitoring": "blocked",
+      "monitoring": "active",
       "watches": "Releases, tastings and distillery events",
       "facebook": "https://www.facebook.com/oldsugar",
       "instagram": "https://www.instagram.com/old_sugar_distillery/"
