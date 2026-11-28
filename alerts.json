@@ -1,10 +1,10 @@
 {
   "feed": "Bourbon Radar alerts",
   "version": 1,
-  "generatedAt": "2026-11-28T07:57:01.016Z",
-  "alertCount": 97,
-  "verifiedCount": 70,
-  "sourcesChecked": 181,
+  "generatedAt": "2026-11-28T09:36:03.215Z",
+  "alertCount": 96,
+  "verifiedCount": 69,
+  "sourcesChecked": 180,
   "states": [
     "AZ",
     "CA",
@@ -26,24 +26,6 @@
     "WY"
   ],
   "alerts": [
-    {
-      "id": "38b52e1bf43b",
-      "status": "verified",
-      "type": "Barrel Pick",
-      "title": "Red, White & Black Friday – exclusive barrel picks + Virginia Distilling Co. tasting",
-      "startsAt": "2026-11-27T21:00:00.000Z",
-      "venue": "Barrels on Bridge",
-      "address": "N70W5336 Bridge Road",
-      "city": "Cedarburg",
-      "state": "WI",
-      "zip": "53012",
-      "lat": 43.3147,
-      "lng": -88.0346,
-      "details": "Fri Nov 27, 3–6 PM. Complimentary tastings of Virginia Distilling Co. American single malt and the shop's exclusive barrel picks. Free, 21+, no RSVP.",
-      "sourceName": "Barrels on Bridge",
-      "sourceUrl": "https://www.barrelsonbridge.com/events",
-      "firstSeenAt": "2026-11-24T12:00:00.000Z"
-    },
     {
       "id": "b1d0a843b771",
       "status": "verified",
